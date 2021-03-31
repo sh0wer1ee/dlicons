@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/image-picker@0.3.1/image-picker/image-picker.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/css/select2.min.css" />
+    <script src="https://dragselect.com/v2/ds.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/js/select2.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/image-picker@0.3.1/image-picker/image-picker.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+    <title>失落的龙约NGA图床/外链生成器</title>
+</head>
+
+<style type="text/css">
+    div {
+        margin: auto;
+        padding: 5px;
+    }
+</style>
+
+<body>
+    <!--
+    <div>
+        <p>NGA外链生成器</p>
+        <a href="./icons/amulet">护符小图</a><br>
+        <a href="./icons/chara">角色小图</a><br>
+        <a href="./icons/dragon">龙小图</a><br>
+        <a href="./icons/weapon">武器小图</a><br>
+    </div>
+    -->
+    <div class="button-group" id="button-group">
+        <button class="btn btn-primary text-center" id="amulet-btn">护符小图</button>
+        <button class="btn btn-primary text-center" id="chara-btn">角色小图</button>
+        <button class="btn btn-primary text-center" id="dragon-btn">龙小图</button>
+        <button class="btn btn-primary text-center" id="weapon-btn">武器小图</button>
+        <!--
+        <button class="btn btn-primary text-center" id="select-all-btn">全选</button>
+        -->
+        <button class="btn btn-danger text-center" id="cancel-all-btn">取消选择</button>
+        <button class="btn btn-info text-center" id="generate-link-btn">生成链接</button>
+    </div>
+    <div class="text-area" id="text-area">
+        <textarea readonly class="output-text" id="output-text" style="width: 80%; height: 100px"> 
+        </textarea>
+    </div>
+    <div class="option-group" id="option-group">
+        <select multiple="multiple" class="icon-select" id="icon-select">
+            <option></option>
+        </select>
+    </div>
+
+</body>
+
+<script>
+    //https://github.com/rvera/image-picker/issues/145
+    var icon_json;
+    var current_type = 'rua';
+    var link_text = '';
+    var iconOptions = document.getElementById("icon-select");
+    var outText = document.getElementById("output-text");
+    var picker = $("select.icon-select").data('picker');
+
+    fetch(`./index.json`)
+        .then(function(response) {
+            if (!response.ok) {
+                throw Error(response.statusText);
+            }
+            return response;
+        })
+        .then(response => response.json())
+        .then(json => {
+            icon_json = json;
+            loadOptions(icon_json);
+        }).catch(function(error) {
+            console.log('rua');
+        });
+
+    function loadOptions(icon_json) {
+        var icon_dic = icon_json[current_type];
+        $("select.icon-select").empty();
+        for (var key in icon_dic) {
+            var optf = document.createElement('option');
+            optf.setAttribute("data-img-src", icon_dic[key]);
+            optf.setAttribute("id", key)
+            optf.setAttribute("value", icon_dic[key])
+            iconOptions.appendChild(optf);
+        }
+        $("select.icon-select").imagepicker();
+        /*
+        new DragSelect({
+            area: document.querySelector('ul.thumbnails'),
+            selectables: document.querySelectorAll('ul.thumbnails > li'),
+            onElementSelect: function(element) {
+                selectImage(element)
+            },
+            onElementUnselect: function(element) {
+                selectImage(element, false)
+            },
+        });
+        */
+    }
+    /*
+    function selectImage(elem, do_select = true) {
+        $("select.icon-select").data('picker').picker_options.forEach((imgp, i) => {
+            if (elem == imgp.node[0]) {
+                imgp.option[0].selected = do_select;
+            }
+        });
+        $("select.icon-select").data('picker').sync_picker_with_select();
+    }
+    */
+    document.getElementById("amulet-btn").addEventListener("click",
+        function() {
+            current_type = 'amulet';
+            loadOptions(icon_json);
+        });
+    document.getElementById("chara-btn").addEventListener("click",
+        function() {
+            current_type = 'chara';
+            loadOptions(icon_json);
+        });
+    document.getElementById("dragon-btn").addEventListener("click",
+        function() {
+            current_type = 'dragon';
+            loadOptions(icon_json);
+        });
+    document.getElementById("weapon-btn").addEventListener("click",
+        function() {
+            current_type = 'weapon';
+            loadOptions(icon_json);
+        });
+    /*
+    document.getElementById("select-all-btn").addEventListener("click",
+        function() {
+
+        });
+    */
+    document.getElementById("cancel-all-btn").addEventListener("click",
+        function() {
+            $("select.icon-select").data('picker').picker_options.forEach((imgp, i) => {
+                imgp.option[0].selected = false;
+            });
+            $("select.icon-select").data('picker').sync_picker_with_select();
+        });
+    document.getElementById("generate-link-btn").addEventListener("click",
+        function() {
+            outText.innerHTML = "";
+            $("select.icon-select").data('picker').selected_values().forEach(function(item, index) {
+                outText.innerHTML += `[img]${item.replace("./","https://gitee.com/sh0wer1ee/dlicons/raw/master/")}[/img]`;
+            });
+        });
+</script>
+
+</html>

@@ -16,9 +16,16 @@ process_dic = {
     'weapon/m' : 'images.icon.weapon.m',
     'weapon/l' : 'images.icon.weapon.l'
 }
+image_dic = {
+    'amulet': {},
+    'chara': {},
+    'dragon': {},
+    'weapon': {}
+}
 
 ROOT = os.path.dirname(os.path.realpath(__file__))
-IMG = os.path.join(ROOT, 'icons')
+IMGFOLDER = 'icons'
+IMG = os.path.join(ROOT, IMGFOLDER)
 ASSETS = os.path.join(ROOT, 'assets')
 os.makedirs(IMG, exist_ok=True)
 os.makedirs(ASSETS, exist_ok=True)
@@ -47,7 +54,8 @@ def dumpImages(filename, asset_type):
     filepath = os.path.join(output_path, '%s.png' % filename)
     os.makedirs(os.path.dirname(filepath), exist_ok=True)
     try:
-        combineA8(imageData).save(filepath)
+        pass
+        #combineA8(imageData).save(filepath)
     except KeyError:# The best way to fight with shitty codes is writing shittier codes to counterattack
         #print(imageData['name'])
         missing_path ='%s%s' % ('s.', process_dic[asset_type])
@@ -63,18 +71,21 @@ def dumpImages(filename, asset_type):
                         imageData['a8'] = data.image
                     else:
                         imageData['img'] = data.image
-        combineA8(imageData).save(filepath)
+        #combineA8(imageData).save(filepath)
     if '/l' in asset_type:
         output_path = os.path.join(IMG, asset_type.replace('/l', '/s'))
         filepath = os.path.join(output_path, '%s.png' % filename)
         os.makedirs(os.path.dirname(filepath), exist_ok=True)
-        combineA8(imageData).resize((80, 80)).save(filepath)
+        #combineA8(imageData).resize((80, 80)).save(filepath)
+
+        image_dic[asset_type.split('/')[0]][filename] = ('./%s/%s/%s.png' % (IMGFOLDER, asset_type.replace('/l', '/s'), filename))
         
 
 def processAssets():
     for path in process_dic:
         for f in os.listdir(os.path.join(ASSETS, process_dic[path])):
             dumpImages(f, path)
+    json.dump(image_dic, open('index.json', 'w'), ensure_ascii=False)
 
 def main():
     start = timeit.default_timer()
