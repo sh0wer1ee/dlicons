@@ -47,9 +47,14 @@
 </body>
 
 <script>
-    //https://github.com/rvera/image-picker/issues/145
     var icon_json;
     var toggle = false;
+    var loaded = {
+        'amulet': false,
+        'chara': false,
+        'dragon': false,
+        'weapon': false
+    };
     var current_type = 'rua';
     var link_text = '';
     var iconOptions = document.getElementById("icon-select");
@@ -82,41 +87,56 @@
             optf.innerHTML = key.split("-")[1];
             iconOptions.appendChild(optf);
         }
-        $("select.icon-select").imagepicker();
+        toggleName();
+    }
+
+    function toggleName() {
+        if (toggle) {
+            $("select.icon-select").imagepicker({
+                show_label: true
+            });
+        } else {
+            $("select.icon-select").imagepicker({
+                show_label: false
+            });
+        }
+    }
+
+    function load() {
+        if (!loaded[current_type]) {
+            loadOptions(icon_json);
+            for (var key in loaded) {
+                loaded[key] = false;
+            }
+            loaded[current_type] = true;
+            console.log(`${current_type} loaded.`);
+        }
     }
 
     document.getElementById("amulet-btn").addEventListener("click",
         function() {
             current_type = 'amulet';
-            loadOptions(icon_json);
+            load();
         });
     document.getElementById("chara-btn").addEventListener("click",
         function() {
             current_type = 'chara';
-            loadOptions(icon_json);
+            load();
         });
     document.getElementById("dragon-btn").addEventListener("click",
         function() {
             current_type = 'dragon';
-            loadOptions(icon_json);
+            load();
         });
     document.getElementById("weapon-btn").addEventListener("click",
         function() {
             current_type = 'weapon';
-            loadOptions(icon_json);
+            load();
         });
     document.getElementById("toggle-btn").addEventListener("click",
         function() {
             toggle = !toggle;
-            if (toggle) {
-                $("select.icon-select").imagepicker({
-                    show_label: true
-                });
-            } else {
-                $("select.icon-select").imagepicker({
-                    show_label: false
-                });
-            }
+            toggleName();
         });
     document.getElementById("cancel-all-btn").addEventListener("click",
         function() {
