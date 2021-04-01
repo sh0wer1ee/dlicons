@@ -49,7 +49,7 @@
 <script>
     //https://github.com/rvera/image-picker/issues/145
     var icon_json;
-    var toggle = true;
+    var toggle = false;
     var current_type = 'rua';
     var link_text = '';
     var iconOptions = document.getElementById("icon-select");
@@ -82,9 +82,7 @@
             optf.innerHTML = key.split("-")[1];
             iconOptions.appendChild(optf);
         }
-        $("select.icon-select").imagepicker({
-            show_label: true
-        });
+        $("select.icon-select").imagepicker();
     }
 
     document.getElementById("amulet-btn").addEventListener("click",
