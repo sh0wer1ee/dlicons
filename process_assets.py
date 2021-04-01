@@ -26,7 +26,7 @@ textlabel = {}
 tl_json = json.load(open('json/TextLabel.json', 'r', encoding='utf8'))
 cd_json = json.load(open('json/CharaData.json', 'r', encoding='utf8'))
 dd_json = json.load(open('json/DragonData.json', 'r', encoding='utf8'))
-ad_json = json.load(open('json/AmuletData.json', 'r', encoding='utf8'))
+ac_json = json.load(open('json/AbilityCrest.json', 'r', encoding='utf8'))
 ws_json = json.load(open('json/WeaponSkin.json', 'r', encoding='utf8'))
 for tid in tl_json:
     textlabel[tl_json[tid]['_Id']] = tl_json[tid]['_Text']
@@ -91,11 +91,9 @@ def localize(id, type):
     name = ''
     try:
         if type == 'amulet':
-            if id.split('_')[0] == '400476':
-                return 'SHOW TIME！'
-            for key in ad_json:
-                if str(ad_json[key]['_BaseId']) == id.split('_')[0]:
-                    name = textlabel[ad_json[key]['_Name']]
+            for key in ac_json:
+                if str(ac_json[key]['_BaseId']) == id.split('_')[0]:
+                    name = textlabel[ac_json[key]['_Name']]
                     break
         elif type == 'chara':
             for key in cd_json:
