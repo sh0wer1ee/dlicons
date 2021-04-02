@@ -1,0 +1,16 @@
+div {
+    margin: auto;
+    padding: 5px;
+}
+
+.option-group {
+    overflow-y: auto;
+    position: absolute;
+    top: 22%;
+    bottom: 0;
+}
+
+.thumbnail {
+    text-align: center;
+    font-size: 12px;
+}
