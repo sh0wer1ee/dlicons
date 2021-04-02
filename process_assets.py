@@ -115,6 +115,8 @@ def localize(id, type):
             for key in ws_json:
                 if str(ws_json[key]['_BaseId']) == id.split('_')[0] and str(ws_json[key]['_FormId']) == id.split('_')[2]:
                     name = textlabel[ws_json[key]['_Name']].replace('［皮肤］', '')
+                    if name == '':
+                        name = textlabel[ws_json[key]['_Name'].replace('_SKIN_NAME_', '_NAME_')]
                     break
     except KeyError:
         name = id
