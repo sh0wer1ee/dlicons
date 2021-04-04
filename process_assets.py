@@ -1,7 +1,7 @@
 import os
 import re
 import shutil
-from UnityPy import AssetsManager
+import UnityPy
 import json
 import timeit
 from PIL import Image
@@ -48,17 +48,16 @@ def dumpImages(filename, asset_type):
     assets_dir = os.path.join(ASSETS, process_dic[asset_type])
     output_path = os.path.join(IMG, asset_type)
     imageData = {}
-    am = AssetsManager(os.path.join(assets_dir, filename))
-    for asset in am.assets.values():
-        for o in asset.objects.values():
-            data = o.read()
-            if str(data.type) == 'AssetBundle':
-                imageData['name'] = data.name
-            if str(data.type) == 'Texture2D':
-                if 'alpha' in str(data.name):
-                    imageData['a8'] = data.image
-                else:
-                    imageData['img'] = data.image
+    env = UnityPy.load(os.path.join(assets_dir, filename))
+    for obj in env.objects:
+        data = obj.read()
+        if str(data.type) == 'AssetBundle':
+            imageData['name'] = data.name
+        if str(data.type) == 'Texture2D':
+            if 'alpha' in str(data.name):
+                imageData['a8'] = data.image
+            else:
+                imageData['img'] = data.image
     filepath = os.path.join(output_path, '%s.png' % filename)
     os.makedirs(os.path.dirname(filepath), exist_ok=True)
     try:
@@ -69,15 +68,15 @@ def dumpImages(filename, asset_type):
         missing_dir = os.path.join(ASSETS, missing_path)
         missing_asset = imageData['name'].split('/')[-1].split('.')[0]
         #print(os.path.join(missing_dir, '%s%s' % (missing_asset, '_alphaa8')))
-        am = AssetsManager(os.path.join(missing_dir, '%s%s' % (missing_asset, '_alphaa8')))
-        for asset in am.assets.values():
-            for o in asset.objects.values():
-                data = o.read()
-                if str(data.type) == 'Texture2D':
-                    if 'alpha' in str(data.name):
-                        imageData['a8'] = data.image
-                    else:
-                        imageData['img'] = data.image
+        
+        env = UnityPy.load(os.path.join(missing_dir, '%s%s' % (missing_asset, '_alphaa8')))
+        for obj in env.objects:
+            data = obj.read()
+            if str(data.type) == 'Texture2D':
+                if 'alpha' in str(data.name):
+                    imageData['a8'] = data.image
+                else:
+                    imageData['img'] = data.image
         combineA8(imageData).save(filepath)
     if '/l' in asset_type:
         output_path = os.path.join(IMG, asset_type.replace('/l', '/s'))
