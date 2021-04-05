@@ -83,45 +83,52 @@ def dumpImages(filename, asset_type):
         filepath = os.path.join(output_path, '%s.png' % filename)
         os.makedirs(os.path.dirname(filepath), exist_ok=True)
         combineA8(imageData).resize((80, 80)).save(filepath)
-        name = localize(filename, asset_type.split('/')[0])
-        image_dic[asset_type.split('/')[0]]['%s-%s' % (filename, name)] = ('./%s/%s/%s.png' % (IMGFOLDER, asset_type.replace('/l', '/s'), filename))
+        name, id = localize(filename, asset_type.split('/')[0])
+        image_dic[asset_type.split('/')[0]][filename] = {}
+        image_dic[asset_type.split('/')[0]][filename]['id'] = id
+        image_dic[asset_type.split('/')[0]][filename]['name'] = name
+        image_dic[asset_type.split('/')[0]][filename]['path'] = ('./%s/%s/%s.png' % (IMGFOLDER, asset_type.replace('/l', '/s'), filename))
         
 def localize(id, type):
-    name = ''
+    _name = ''
+    _id = ''
     try:
         if type == 'amulet':
             for key in ac_json:
                 if str(ac_json[key]['_BaseId']) == id.split('_')[0]:
-                    name = textlabel[ac_json[key]['_Name']]
+                    _name = textlabel[ac_json[key]['_Name']]
+                    _id = key
                     break
         elif type == 'chara':
             for key in cd_json:
                 if str(cd_json[key]['_BaseId']) == id.split('_')[0]:
                     try:
-                        name = textlabel[cd_json[key]['_SecondName']]
+                        _name = textlabel[cd_json[key]['_SecondName']]
                     except KeyError:
-                        name = textlabel[cd_json[key]['_Name']]
+                        _name = textlabel[cd_json[key]['_Name']]
+                    _id = key
                     break
         elif type == 'dragon':
             for key in dd_json:
                 if str(dd_json[key]['_BaseId']) == id.split('_')[0]:
                     try:
-                        name = textlabel[dd_json[key]['_SecondName']]
+                        _name = textlabel[dd_json[key]['_SecondName']]
                     except KeyError:
-                        name = textlabel[dd_json[key]['_Name']]
+                        _name = textlabel[dd_json[key]['_Name']]
+                    _id = key
                     break
         elif type == 'weapon':
             for key in ws_json:
                 if str(ws_json[key]['_BaseId']) == id.split('_')[0] and str(ws_json[key]['_FormId']) == id.split('_')[2]:
-                    name = textlabel[ws_json[key]['_Name']].replace('［皮肤］', '')
-                    if name == '':
-                        name = textlabel[ws_json[key]['_Name'].replace('_SKIN_NAME_', '_NAME_')]
+                    _name = textlabel[ws_json[key]['_Name']].replace('［皮肤］', '')
+                    if _name == '':
+                        _name = textlabel[ws_json[key]['_Name'].replace('_SKIN_NAME_', '_NAME_')]
+                    _id = key
                     break
     except KeyError:
-        name = id
-    return name
+        _name = id
+    return _name, _id
     
-
 def processAssets():
     for path in process_dic:
         for f in os.listdir(os.path.join(ASSETS, process_dic[path])):

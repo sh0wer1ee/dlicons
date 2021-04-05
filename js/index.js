@@ -38,8 +38,8 @@ fetch('https://gitee.com/api/v5/repos/sh0wer1ee/dlicons/commits')
     .then(json => {
         latestTime = json[0].commit.author.date;
         var d = new Date(latestTime);
-        var datestring = (d.getFullYear() + '/' + ("0" + (d.getMonth() + 1)).slice(-2) + '/' +
-            ("0" + d.getDate()).slice(-2) + " " + ("0" + d.getHours()).slice(-2) + ":" + ("0" + d.getMinutes()).slice(-2));
+        var datestring = (d.getFullYear() + '/' + ('0' + (d.getMonth() + 1)).slice(-2) + '/' +
+            ('0' + d.getDate()).slice(-2) + ' ' + ('0' + d.getHours()).slice(-2) + ':' + ('0' + d.getMinutes()).slice(-2));
         document.getElementById("update-time").innerText = `Last update: ${datestring}`;
     }).catch(function(error) {
         console.log(error);
@@ -51,10 +51,10 @@ function loadOptions(icon_json) {
     $("select.icon-select").empty();
     for (var key in icon_dic) {
         var optf = document.createElement('option');
-        optf.setAttribute("data-img-src", icon_dic[key]);
-        optf.setAttribute("id", key);
-        optf.setAttribute("value", icon_dic[key]);
-        optf.innerHTML = key.split("-")[1];
+        optf.setAttribute("data-img-src", icon_dic[key].path);
+        optf.setAttribute("id", icon_dic[key].id);
+        optf.setAttribute("value", icon_dic[key].name);
+        optf.innerHTML = icon_dic[key].name;
         iconOptions.appendChild(optf);
     }
     toggleName();
