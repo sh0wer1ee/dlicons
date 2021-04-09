@@ -101,7 +101,7 @@ def localize(id, type):
                     break
         elif type == 'chara':
             for key in cd_json:
-                if str(cd_json[key]['_BaseId']) == id.split('_')[0]:
+                if str(cd_json[key]['_BaseId']) == id.split('_')[0] and cd_json[key]['_VariationId'] == int(id.split('_')[1]):
                     try:
                         _name = textlabel[cd_json[key]['_SecondName']]
                     except KeyError:
