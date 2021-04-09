@@ -53,7 +53,7 @@ function loadOptions(icon_json) {
         var optf = document.createElement('option');
         optf.setAttribute("data-img-src", icon_dic[key].path);
         optf.setAttribute("id", icon_dic[key].id);
-        optf.setAttribute("value", icon_dic[key].name);
+        optf.setAttribute("value", icon_dic[key].path);
         optf.innerHTML = icon_dic[key].name;
         iconOptions.appendChild(optf);
     }

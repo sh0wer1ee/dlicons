@@ -1,5 +1,5 @@
 # DLIcons
-An image hosting page for NGA dragalia forum.
+An image hosting page for NGA dragalia forum, along with a page to generate links.
 ## Usage
 Select the images and click `generate link` button.
 ## Deploy
