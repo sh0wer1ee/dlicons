@@ -133,7 +133,7 @@ def processAssets():
     for path in process_dic:
         for f in os.listdir(os.path.join(ASSETS, process_dic[path])):
             dumpImages(f, path)
-    json.dump(image_dic, open('index.json', 'w', encoding='utf-8'), ensure_ascii=False)
+    json.dump(image_dic, open('index.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=4)
 
 def main():
     start = timeit.default_timer()
