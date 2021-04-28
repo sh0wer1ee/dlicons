@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./css/index.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/image-picker@0.3.1/image-picker/image-picker.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/image-picker@0.3.1/image-picker/image-picker.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+    <title>超得图链生成</title>
+</head>
+
+<body>
+    <div class="text-area" id="text-area">
+        <textarea class="input-text" id="input-text" style="width: 80%; height: 300px"> 
+        </textarea>
+    </div>
+    <div class="button-group" id="button-group">
+        <button class="btn btn-info text-center" id="generate-link-btn">生成链接</button>
+    </div>
+    <div class="text-area" id="text-area">
+        <textarea readonly class="output-text" id="output-text" style="width: 80%; height: 300px"> 
+        </textarea>
+    </div>
+
+</body>
+
+<script>
+    var nameIDDic = {};
+    document.getElementById('input-text').value = '';
+    fetch(`./index.json`)
+        .then(function(response) {
+            if (!response.ok) {
+                throw Error(response.statusText);
+            }
+            return response;
+        })
+        .then(response => response.json())
+        .then(json => {
+            let chara = json['chara'];
+            let dragon = json['dragon'];
+            for (var key in chara) {
+                var sp = key.split('_');
+                let r3 = `${sp[0]}_${sp[1]}_r03`;
+                let r4 = `${sp[0]}_${sp[1]}_r04`;
+                nameIDDic[chara[key].name] = `[img]${chara[key].path.replace("./","https://gitee.com/sh0wer1ee/dlicons/raw/master/")}[/img]`;
+                if (r3 in chara) {
+                    nameIDDic[chara[key].name] = nameIDDic[chara[key].name].replace('_r05', '_r03');
+                    nameIDDic[chara[key].name] = nameIDDic[chara[key].name].replace('_r04', '_r03');
+                } else if (r4 in chara) {
+                    nameIDDic[chara[key].name] = nameIDDic[chara[key].name].replace('_r05', '_r04');
+                }
+            }
+            for (var key in dragon) {
+                nameIDDic[dragon[key].name] = `[img]${dragon[key].path.replace("./","https://gitee.com/sh0wer1ee/dlicons/raw/master/")}[/img]`;
+            }
+            for (var key in dragon) {
+
+            }
+        }).catch(function(error) {
+            console.log('rua');
+            console.log(error);
+        });
+
+    document.getElementById("generate-link-btn").addEventListener("click",
+        function() {
+            var lines = document.getElementById('input-text').value.split('\n');
+            var outText = '';
+            for (var j = 0; j < lines.length; j++) {
+                outText += findCharaOrDragon(lines[j]);
+            }
+            document.getElementById('output-text').value = outText;
+        });
+
+    function findCharaOrDragon(name) {
+        try {
+            return nameIDDic[name];
+        } catch (e) {
+            return '404';
+        }
+        return 'rua';
+    }
+</script>
+
+</html>
