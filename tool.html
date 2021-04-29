@@ -46,7 +46,7 @@
                 var sp = key.split('_');
                 let r3 = `${sp[0]}_${sp[1]}_r03`;
                 let r4 = `${sp[0]}_${sp[1]}_r04`;
-                nameIDDic[chara[key].name] = `[img]${chara[key].path.replace("./","https://gitee.com/sh0wer1ee/dlicons/raw/master/")}[/img]`;
+                nameIDDic[chara[key].name] = `[img]${chara[key].path.replace("./","https://sh0wer1ee.gitee.io/dlicons/")}[/img]`;
                 if (r3 in chara) {
                     nameIDDic[chara[key].name] = nameIDDic[chara[key].name].replace('_r05', '_r03');
                     nameIDDic[chara[key].name] = nameIDDic[chara[key].name].replace('_r04', '_r03');
@@ -55,10 +55,7 @@
                 }
             }
             for (var key in dragon) {
-                nameIDDic[dragon[key].name] = `[img]${dragon[key].path.replace("./","https://gitee.com/sh0wer1ee/dlicons/raw/master/")}[/img]`;
-            }
-            for (var key in dragon) {
-
+                nameIDDic[dragon[key].name] = `[img]${dragon[key].path.replace("./","https://sh0wer1ee.gitee.io/dlicons/")}[/img]`;
             }
         }).catch(function(error) {
             console.log('rua');

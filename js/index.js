@@ -119,6 +119,6 @@ document.getElementById("generate-link-btn").addEventListener("click",
     function() {
         outText.innerHTML = "";
         $("select.icon-select").data('picker').selected_values().forEach(function(item, index) {
-            outText.innerHTML += `[img]${item.replace("./","https://gitee.com/sh0wer1ee/dlicons/raw/master/")}[/img]`;
+            outText.innerHTML += `[img]${item.replace("./","https://sh0wer1ee.gitee.io/dlicons/")}[/img]`;
         });
     });
