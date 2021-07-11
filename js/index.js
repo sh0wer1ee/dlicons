@@ -53,7 +53,7 @@ function loadOptions(icon_json) {
         var optf = document.createElement('option');
         optf.setAttribute("data-img-src", icon_dic[key].path);
         optf.setAttribute("id", icon_dic[key].id);
-        optf.setAttribute("value", icon_dic[key].path);
+        optf.setAttribute("value", `${icon_dic[key].path}@${icon_dic[key].nga_path}`);
         optf.innerHTML = icon_dic[key].name;
         iconOptions.appendChild(optf);
     }
@@ -119,6 +119,15 @@ document.getElementById("generate-link-btn").addEventListener("click",
     function() {
         outText.innerHTML = "";
         $("select.icon-select").data('picker').selected_values().forEach(function(item, index) {
-            outText.innerHTML += `[img]${item.replace("./","https://sh0wer1ee.gitee.io/dlicons/")}[/img]`;
+            path = item.split('@')[0];
+            outText.innerHTML += `[img]${path.replace("./","https://sh0wer1ee.gitee.io/dlicons/")}[/img]`;
+        });
+    });
+document.getElementById("generate-nga-link-btn").addEventListener("click",
+    function() {
+        outText.innerHTML = "";
+        $("select.icon-select").data('picker').selected_values().forEach(function(item, index) {
+            path = item.split('@')[1];
+            outText.innerHTML += `[img]${path}[/img]`;
         });
     });
