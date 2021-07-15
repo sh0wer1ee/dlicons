@@ -5216,6 +5216,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-hkm9KdT8S28-28.png",
             "path": "./icons/chara/s/110313_01_r05.png"
         },
+        "110313_03_r05": {
+            "id": "10150204",
+            "name": "家康（夏日Ver.）",
+            "nga_path": "./mon_202107/15/-pobugQ2o-ihfvKcT8S28-28.png",
+            "path": "./icons/chara/s/110313_03_r05.png"
+        },
         "110314_01_r04": {
             "id": "10340301",
             "name": "苏方",
@@ -5455,6 +5461,12 @@
             "name": "光秀",
             "nga_path": "./mon_202107/11/-pobugQ2o-3gpbKdT8S28-28.png",
             "path": "./icons/chara/s/110345_01_r05.png"
+        },
+        "110345_03_r05": {
+            "id": "10350103",
+            "name": "光秀（夏日Ver.）",
+            "nga_path": "./mon_202107/15/-pobugQ2o-a229KdT8S28-28.png",
+            "path": "./icons/chara/s/110345_03_r05.png"
         },
         "110346_01_r05": {
             "id": "10250103",
@@ -6489,6 +6501,12 @@
             "name": "无畏尼德霍格（Fes限定Ver.）",
             "nga_path": "./mon_202107/11/-pobugQ2o-j3iKcT8S28-28.png",
             "path": "./icons/dragon/s/210155_01.png"
+        },
+        "210156_01": {
+            "id": "20050216",
+            "name": "摩利支天（夏日Ver.）",
+            "nga_path": "./mon_202107/15/-pobugQ2o-2e2fKdT8S28-28.png",
+            "path": "./icons/dragon/s/210156_01.png"
         }
     },
     "weapon": {
