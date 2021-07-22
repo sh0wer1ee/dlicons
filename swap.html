@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="./css/index.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/css/bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.jsdelivr.net/npm/image-picker@0.3.1/image-picker/image-picker.css"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/image-picker@0.3.1/image-picker/image-picker.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+    <title>将之前的gitee图链一键转位nga原生图链</title>
+  </head>
+
+  <body>
+    <div class="text-area" id="text-area">
+      <textarea
+        class="input-text"
+        id="input-text"
+        style="width: 80%; height: 300px"
+      >
+      </textarea>
+    </div>
+    <div class="button-group" id="button-group">
+      <button class="btn btn-info text-center" id="generate-link-btn">
+        一键替换！
+      </button>
+    </div>
+    <div class="text-area" id="text-area">
+      <textarea
+        readonly
+        class="output-text"
+        id="output-text"
+        style="width: 80%; height: 300px"
+      >
+      </textarea>
+    </div>
+  </body>
+
+  <script>
+    var mapDic = {};
+    var typeList = ["chara", "dragon", "weapon", "amulet"];
+    //types[parseInt(id[0] - 1)];
+    var nameIDDic = {};
+    document.getElementById("input-text").value = "";
+    fetch(`./map.json`)
+      .then(function (response) {
+        if (!response.ok) {
+          throw Error(response.statusText);
+        }
+        return response;
+      })
+      .then((response) => response.json())
+      .then((json) => {
+        for (var key in json) {
+          //[img]https://sh0wer1ee.gitee.io/dlicons/icons/amulet/s/400124_02.png[/img]
+          let newKey = `https://sh0wer1ee.gitee.io/dlicons/icons/${
+            typeList[parseInt(key[0] - 1)]
+          }/s/${key}.png`;
+          mapDic[newKey] = json[key];
+        }
+      })
+      .catch(function (error) {
+        console.log("rua");
+        console.log(error);
+      });
+
+    document
+      .getElementById("generate-link-btn")
+      .addEventListener("click", function () {
+        var raw = document.getElementById("input-text").value;
+        var outText = "";
+        outText = raw.mapReplace(mapDic);
+
+        document.getElementById("output-text").value = outText;
+      });
+
+    function swapAll(raw) {}
+
+    String.prototype.mapReplace = function (map) {
+      var regex = [];
+      for (var key in map)
+        regex.push(key.replace(/[\-\[\]\/\{\}\(\)\*\+\?\.\\\^\$\|]/g, "\\$&"));
+      return this.replace(new RegExp(regex.join("|"), "g"), function (word) {
+        return map[word];
+      });
+    };
+  </script>
+</html>
