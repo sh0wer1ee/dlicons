@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/dlicons/static/js/main.67166462.chunk.js",
-    "main.js.map": "/dlicons/static/js/main.67166462.chunk.js.map",
-    "runtime-main.js": "/dlicons/static/js/runtime-main.4e59cb80.js",
-    "runtime-main.js.map": "/dlicons/static/js/runtime-main.4e59cb80.js.map",
-    "static/js/2.73a7f224.chunk.js": "/dlicons/static/js/2.73a7f224.chunk.js",
-    "static/js/2.73a7f224.chunk.js.map": "/dlicons/static/js/2.73a7f224.chunk.js.map",
-    "index.html": "/dlicons/index.html",
-    "static/js/2.73a7f224.chunk.js.LICENSE.txt": "/dlicons/static/js/2.73a7f224.chunk.js.LICENSE.txt"
+    "main.js": "./static/js/main.67166462.chunk.js",
+    "main.js.map": "./static/js/main.67166462.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.5f570eab.js",
+    "runtime-main.js.map": "./static/js/runtime-main.5f570eab.js.map",
+    "static/js/2.73a7f224.chunk.js": "./static/js/2.73a7f224.chunk.js",
+    "static/js/2.73a7f224.chunk.js.map": "./static/js/2.73a7f224.chunk.js.map",
+    "index.html": "./index.html",
+    "static/js/2.73a7f224.chunk.js.LICENSE.txt": "./static/js/2.73a7f224.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e59cb80.js",
+    "static/js/runtime-main.5f570eab.js",
     "static/js/2.73a7f224.chunk.js",
     "static/js/main.67166462.chunk.js"
   ]
