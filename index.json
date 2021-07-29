@@ -2466,6 +2466,18 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-855lKdT8S28-28.png",
             "path": "./icons/amulet/s/400403_02.png"
         },
+        "400405_01": {
+            "id": "40050139",
+            "name": "风靡一祭",
+            "nga_path": "./mon_202107/29/-pobugQ7edy-4aetKcT8S28-28.png",
+            "path": "./icons/amulet/s/400405_01.png"
+        },
+        "400405_02": {
+            "id": "40050139",
+            "name": "风靡一祭",
+            "nga_path": "./mon_202107/29/-pobugQ7edy-htr4KcT8S28-28.png",
+            "path": "./icons/amulet/s/400405_02.png"
+        },
         "400406_01": {
             "id": "40040067",
             "name": "猫猪趣画",
@@ -3275,6 +3287,18 @@
             "name": "阳光下的人偶",
             "nga_path": "./mon_202107/11/-pobugQ2o-33j4KcT8S28-28.png",
             "path": "./icons/amulet/s/400478_02.png"
+        },
+        "400479_01": {
+            "id": "40050138",
+            "name": "顶级夏日",
+            "nga_path": "./mon_202107/29/-pobugQ7edy-axbtKcT8S28-28.png",
+            "path": "./icons/amulet/s/400479_01.png"
+        },
+        "400479_02": {
+            "id": "40050138",
+            "name": "顶级夏日",
+            "nga_path": "./mon_202107/29/-pobugQ7edy-3w9qKcT8S28-28.png",
+            "path": "./icons/amulet/s/400479_02.png"
         }
     },
     "chara": {
@@ -3295,6 +3319,12 @@
             "name": "主人公（Fes限定Ver.）",
             "nga_path": "./mon_202107/11/-pobugQ2o-669yKdT8S28-28.png",
             "path": "./icons/chara/s/100001_08_r05.png"
+        },
+        "100001_12_r05": {
+            "id": "10350506",
+            "name": "主人公（夏日Ver.）",
+            "nga_path": "./mon_202107/29/-pobugQ7edy-ccm2KdT8S28-28.png",
+            "path": "./icons/chara/s/100001_12_r05.png"
         },
         "100002_01_r04": {
             "id": "10540201",
