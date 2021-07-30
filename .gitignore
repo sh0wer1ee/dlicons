@@ -129,3 +129,4 @@ dmypy.json
 /json
 download_assets.cmd
 copy_build_to_gitee.cmd
+copy_res.cmd
