@@ -3560,6 +3560,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-cylrKcT8S28-28.png",
             "path": "./icons/chara/s/100015_05_r05.png"
         },
+        "100015_08_r05": {
+            "id": "10750404",
+            "name": "谢斯（夏日Ver.）",
+            "nga_path": "./mon_202108/04/-pobugQ174-ksk2KcT8S28-28.png",
+            "path": "./icons/chara/s/100015_08_r05.png"
+        },
         "100018_01_r05": {
             "id": "19900002",
             "name": "利弗",
@@ -6549,6 +6555,12 @@
             "name": "摩利支天（夏日Ver.）",
             "nga_path": "./mon_202107/15/-pobugQ2o-2e2fKdT8S28-28.png",
             "path": "./icons/dragon/s/210156_01.png"
+        },
+        "210158_01": {
+            "id": "20050416",
+            "name": "凯特西（夏日Ver.）",
+            "nga_path": "./mon_202108/04/-pobugQ174-c52mKcT8S28-28.png",
+            "path": "./icons/dragon/s/210158_01.png"
         }
     },
     "weapon": {
