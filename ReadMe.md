@@ -15,5 +15,4 @@ Nga img link is located here (login required): [link](https://nga.178.com/read.p
 
 ## Note
 
-Planning add filter feature.
 Source code is [here](https://github.com/sh0wer1ee/dlicon-react).
