@@ -3434,6 +3434,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-jzjtKdT8S28-28.png",
             "path": "./icons/chara/s/100004_17_r05.png"
         },
+        "100004_19_r05": {
+            "id": "10750105",
+            "name": "库菈乌（浴衣Ver.）",
+            "nga_path": "./mon_202108/13/-pobugQ8iu8-84g9KdT8S28-28.png",
+            "path": "./icons/chara/s/100004_19_r05.png"
+        },
         "100005_01_r04": {
             "id": "10340502",
             "name": "沙音",
@@ -5551,6 +5557,12 @@
             "name": "拉托妮",
             "nga_path": "./mon_202107/11/-pobugQ2o-fh9jKcT8S28-28.png",
             "path": "./icons/chara/s/110349_01_r05.png"
+        },
+        "110349_04_r05": {
+            "id": "10250304",
+            "name": "拉托妮（浴衣Ver.）",
+            "nga_path": "./mon_202108/13/-pobugQ8iu8-6tfKcT8S28-28.png",
+            "path": "./icons/chara/s/110349_04_r05.png"
         },
         "110350_01_r04": {
             "id": "10640302",
