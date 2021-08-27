@@ -2046,6 +2046,18 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-5yfoKcT8S28-28.png",
             "path": "./icons/amulet/s/400288_02.png"
         },
+        "400291_01": {
+            "id": "40040099",
+            "name": "天音的育婴奋斗记",
+            "nga_path": "./mon_202108/27/-pobugQj6w-67vpKcT8S28-28.png",
+            "path": "./icons/amulet/s/400291_01.png"
+        },
+        "400291_02": {
+            "id": "40040099",
+            "name": "天音的育婴奋斗记",
+            "nga_path": "./mon_202108/27/-pobugQj6w-hfa0KcT8S28-28.png",
+            "path": "./icons/amulet/s/400291_02.png"
+        },
         "400293_01": {
             "id": "40040049",
             "name": "片刻的宁静",
@@ -3299,6 +3311,30 @@
             "name": "顶级夏日",
             "nga_path": "./mon_202107/29/-pobugQ7edy-3w9qKcT8S28-28.png",
             "path": "./icons/amulet/s/400479_02.png"
+        },
+        "400480_01": {
+            "id": "40040098",
+            "name": "战场之花",
+            "nga_path": "./mon_202108/27/-pobugQj6w-8ci8KdT8S28-28.png",
+            "path": "./icons/amulet/s/400480_01.png"
+        },
+        "400480_02": {
+            "id": "40040098",
+            "name": "战场之花",
+            "nga_path": "./mon_202108/27/-pobugQj6w-k05gKdT8S28-28.png",
+            "path": "./icons/amulet/s/400480_02.png"
+        },
+        "400481_01": {
+            "id": "40050140",
+            "name": "单翼的旅程",
+            "nga_path": "./mon_202108/27/-pobugQj6w-amo8KcT8S28-28.png",
+            "path": "./icons/amulet/s/400481_01.png"
+        },
+        "400481_02": {
+            "id": "40050140",
+            "name": "单翼的旅程",
+            "nga_path": "./mon_202108/27/-pobugQj6w-1pf4KcT8S28-28.png",
+            "path": "./icons/amulet/s/400481_02.png"
         }
     },
     "chara": {
@@ -10979,6 +11015,12 @@
             "name": "纽带之铳",
             "nga_path": "./mon_202107/11/-pobugQ2o-8xjnKbT8S28-28.png",
             "path": "./icons/weapon/s/396001_01_59901.png"
+        },
+        "396002_01_59901": {
+            "id": "30950219",
+            "name": "失意之铳",
+            "nga_path": "./mon_202108/27/-pobugQj6w-fn3oKbT8S28-28.png",
+            "path": "./icons/weapon/s/396002_01_59901.png"
         },
         "397001_01_59901": {
             "id": "30150116",
