@@ -6609,6 +6609,12 @@
             "name": "凯特西（夏日Ver.）",
             "nga_path": "./mon_202108/04/-pobugQ174-c52mKcT8S28-28.png",
             "path": "./icons/dragon/s/210158_01.png"
+        },
+        "210161_01": {
+            "id": "20050319",
+            "name": "兽化卢弗（Fes限定Ver.）",
+            "nga_path": "./mon_202108/30/-pobugQ176-3s5nKdT8S28-28.png",
+            "path": "./icons/dragon/s/210161_01.png"
         }
     },
     "weapon": {
@@ -11051,6 +11057,12 @@
             "name": "遥忆未来",
             "nga_path": "./mon_202107/30/-pobugQ8im1-lcvsKbT8S28-28.png",
             "path": "./icons/weapon/s/397005_01_59901.png"
+        },
+        "397006_01_59901": {
+            "id": "30550216",
+            "name": "渴望之兽的恸哭",
+            "nga_path": "./mon_202108/30/-pobugQ176-gkmwKcT8S28-28.png",
+            "path": "./icons/weapon/s/397006_01_59901.png"
         },
         "399016_01_59901": {
             "id": "30159917",
