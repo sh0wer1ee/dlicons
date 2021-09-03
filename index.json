@@ -1878,6 +1878,24 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-g9koKcT8S28-28.png",
             "path": "./icons/amulet/s/400179_01.png"
         },
+        "400180_01": {
+            "id": "40090019",
+            "name": "久远的见证",
+            "nga_path": "./mon_202109/03/-pobugQ8j6p-947tKcT8S28-28.png",
+            "path": "./icons/amulet/s/400180_01.png"
+        },
+        "400199_01": {
+            "id": "40090020",
+            "name": "回忆之宝石",
+            "nga_path": "./mon_202109/03/-pobugQ8j6p-o9wKdT8S28-28.png",
+            "path": "./icons/amulet/s/400199_01.png"
+        },
+        "400203_01": {
+            "id": "40090022",
+            "name": "王者的至尊宝剑",
+            "nga_path": "./mon_202109/03/-pobugQ8j6p-85KcT8S28-28.png",
+            "path": "./icons/amulet/s/400203_01.png"
+        },
         "400214_01": {
             "id": "40090010",
             "name": "猎鹰之击",
@@ -1943,6 +1961,12 @@
             "name": "龙之铁匠铺",
             "nga_path": "./mon_202107/11/-pobugQ2o-8fpmKdT8S28-28.png",
             "path": "./icons/amulet/s/400245_02.png"
+        },
+        "400247_01": {
+            "id": "40090021",
+            "name": "不会结冻的花",
+            "nga_path": "./mon_202109/03/-pobugQ8j6p-clarKcT8S28-28.png",
+            "path": "./icons/amulet/s/400247_01.png"
         },
         "400258_01": {
             "id": "40090008",
@@ -3625,6 +3649,12 @@
             "name": "利弗",
             "nga_path": "./mon_202107/11/-pobugQ2o-994zKcT8S28-28.png",
             "path": "./icons/chara/s/100018_06_r05.png"
+        },
+        "100018_07_r05": {
+            "id": "10150405",
+            "name": "利弗（轻装Ver.）",
+            "nga_path": "./mon_202109/03/-pobugQ8j6p-5dbvKcT8S28-28.png",
+            "path": "./icons/chara/s/100018_07_r05.png"
         },
         "100029_02_r05": {
             "id": "10650101",
@@ -5863,6 +5893,12 @@
             "name": "妮诺",
             "nga_path": "./mon_202107/11/-pobugQ2o-bfc0KdT8S28-28.png",
             "path": "./icons/chara/s/110392_01_r05.png"
+        },
+        "110394_01_r05": {
+            "id": "10950303",
+            "name": "赛希尔",
+            "nga_path": "./mon_202109/03/-pobugQ8j6p-huulKcT8S28-28.png",
+            "path": "./icons/chara/s/110394_01_r05.png"
         }
     },
     "dragon": {
