@@ -4754,6 +4754,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-6z6gKcT8S28-28.png",
             "path": "./icons/chara/s/110059_01_r05.png"
         },
+        "110059_02_r05": {
+            "id": "10150106",
+            "name": "格蕾丝（“结社”Ver.）",
+            "nga_path": "./mon_202109/13/-pobugQ177-fmwbKcT8S28-28.png",
+            "path": "./icons/chara/s/110059_02_r05.png"
+        },
         "110063_01_r03": {
             "id": "10830402",
             "name": "艾丝蒂尔",
@@ -5893,6 +5899,12 @@
             "name": "妮诺",
             "nga_path": "./mon_202107/11/-pobugQ2o-bfc0KdT8S28-28.png",
             "path": "./icons/chara/s/110392_01_r05.png"
+        },
+        "110393_01_r05": {
+            "id": "10350405",
+            "name": "法尔吉德",
+            "nga_path": "./mon_202109/13/-pobugQ177-518mKcT8S28-28.png",
+            "path": "./icons/chara/s/110393_01_r05.png"
         },
         "110394_01_r05": {
             "id": "10950303",
