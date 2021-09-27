@@ -12,7 +12,7 @@ var iconOptions = document.getElementById("icon-select");
 var outText = document.getElementById("output-text");
 var picker = $("select.icon-select").data('picker');
 
-fetch(`./index.json`)
+fetch(`./index`)
     .then(function(response) {
         if (!response.ok) {
             throw Error(response.statusText);
