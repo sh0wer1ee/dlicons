@@ -3360,6 +3360,30 @@
             "nga_path": "./mon_202108/27/-pobugQj6w-1pf4KcT8S28-28.png",
             "path": "./icons/amulet/s/400481_02.png"
         },
+        "400483_01": {
+            "id": "40050142",
+            "name": "\u5929\u4e4b\u4f7f\u8005",
+            "nga_path": "./mon_202109/30/-pobugQn4a0-gw89KcT8S28-28.png",
+            "path": "./icons/amulet/s/400483_01.png"
+        },
+        "400483_02": {
+            "id": "40050142",
+            "name": "\u5929\u4e4b\u4f7f\u8005",
+            "nga_path": "./mon_202109/30/-pobugQn4a0-6k79KcT8S28-28.png",
+            "path": "./icons/amulet/s/400483_02.png"
+        },
+        "400484_01": {
+            "id": "40050141",
+            "name": "\u5fd7\u540c\u9053\u5408\u4e4b\u4eba\u7684\u524d\u8def",
+            "nga_path": "./mon_202109/30/-pobugQ4yo9-ijz3KcT8S28-28.png",
+            "path": "./icons/amulet/s/400484_01.png"
+        },
+        "400484_02": {
+            "id": "40050141",
+            "name": "\u5fd7\u540c\u9053\u5408\u4e4b\u4eba\u7684\u524d\u8def",
+            "nga_path": "./mon_202109/30/-pobugQ4yo9-8sexKdT8S28-28.png",
+            "path": "./icons/amulet/s/400484_02.png"
+        },
         "400491_01": {
             "id": "40050143",
             "name": "3\u5468\u5e74\u7eaa\u5ff5",
@@ -3662,6 +3686,12 @@
             "nga_path": "./mon_202109/03/-pobugQ8j6p-5dbvKcT8S28-28.png",
             "path": "./icons/chara/s/100018_07_r05.png"
         },
+        "100019_02_r05": {
+            "id": "10250305",
+            "name": "\u54c8\u5c14",
+            "nga_path": "./mon_202109/30/-pobugQn4a0-1xuaKcT8S28-28.png",
+            "path": "./icons/chara/s/100019_02_r05.png"
+        },
         "100029_02_r05": {
             "id": "10650101",
             "name": "\u5e0c\u91cc\u4e1d\uff08Fes\u9650\u5b9aVer.\uff09",
@@ -3709,6 +3739,12 @@
             "name": "\u9a6c\u65af\u53e4\u62c9\uff08Fes\u9650\u5b9aVer.\uff09",
             "nga_path": "./mon_202107/11/-pobugQ2o-1cb7KcT8S28-28.png",
             "path": "./icons/chara/s/100045_01_r05.png"
+        },
+        "100054_01_r05": {
+            "id": "10250504",
+            "name": "\u585e\u897f\u5a05\uff08Fes\u9650\u5b9aVer.\uff09",
+            "nga_path": "./mon_202109/30/-pobugQn4a0-drx3KdT8S28-28.png",
+            "path": "./icons/chara/s/100054_01_r05.png"
         },
         "110001_01_r03": {
             "id": "10530101",
@@ -6669,6 +6705,12 @@
             "name": "\u517d\u5316\u5362\u5f17\uff08Fes\u9650\u5b9aVer.\uff09",
             "nga_path": "./mon_202108/30/-pobugQ176-3s5nKdT8S28-28.png",
             "path": "./icons/dragon/s/210161_01.png"
+        },
+        "210162_01": {
+            "id": "20050525",
+            "name": "\u5df4\u54c8\u59c6\u7279\uff08Fes\u9650\u5b9aVer.\uff09",
+            "nga_path": "./mon_202109/30/-pobugQn4a0-4d43KbT8S28-28.png",
+            "path": "./icons/dragon/s/210162_01.png"
         },
         "210166_01": {
             "id": "20050417",
@@ -11153,6 +11195,12 @@
             "name": "\u7ec8\u672b\u98ce\u66b4\u4e4b\u67aa",
             "nga_path": "./mon_202107/11/-pobugQ2o-1y98KbT8S28-28.png",
             "path": "./icons/weapon/s/399051_01_59901.png"
+        },
+        "399059_01_59901": {
+            "id": "30250316",
+            "name": "\u7ec8\u672b\u4e4b\u7ea6",
+            "nga_path": "./mon_202109/30/-pobugQ4yo8-koseKdT8S28-28.png",
+            "path": "./icons/weapon/s/399059_01_59901.png"
         }
     }
 }
