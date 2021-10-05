@@ -5953,6 +5953,12 @@
             "name": "\u8d5b\u5e0c\u5c14",
             "nga_path": "./mon_202109/03/-pobugQ8j6p-huulKcT8S28-28.png",
             "path": "./icons/chara/s/110394_01_r05.png"
+        },
+        "110395_01_r05": {
+            "id": "10250204",
+            "name": "\u594e\u8335",
+            "nga_path": "./mon_202110/05/-pobugQ179-fghxKdT8S28-28.png",
+            "path": "./icons/chara/s/110395_01_r05.png"
         }
     },
     "dragon": {
