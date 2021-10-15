@@ -3360,6 +3360,18 @@
             "nga_path": "./mon_202108/27/-pobugQj6w-1pf4KcT8S28-28.png",
             "path": "./icons/amulet/s/400481_02.png"
         },
+        "400482_01": {
+            "id": "40040100",
+            "name": "\u826f\u597d\u7684\u5316\u5b66\u53cd\u5e94",
+            "nga_path": "./mon_202110/15/-pobugQ8jv5-gz3eKdT8S28-28.png",
+            "path": "./icons/amulet/s/400482_01.png"
+        },
+        "400482_02": {
+            "id": "40040100",
+            "name": "\u826f\u597d\u7684\u5316\u5b66\u53cd\u5e94",
+            "nga_path": "./mon_202110/15/-pobugQ8jv5-29ulKdT8S28-28.png",
+            "path": "./icons/amulet/s/400482_02.png"
+        },
         "400483_01": {
             "id": "40050142",
             "name": "\u5929\u4e4b\u4f7f\u8005",
@@ -5959,6 +5971,18 @@
             "name": "\u594e\u8335",
             "nga_path": "./mon_202110/05/-pobugQ179-fghxKdT8S28-28.png",
             "path": "./icons/chara/s/110395_01_r05.png"
+        },
+        "110396_01_r05": {
+            "id": "10850203",
+            "name": "\u5723\u5fb7\u82ac",
+            "nga_path": "./mon_202110/15/-pobugQ8jv5-iozdKdT8S28-28.png",
+            "path": "./icons/chara/s/110396_01_r05.png"
+        },
+        "110397_01_r05": {
+            "id": "10750304",
+            "name": "\u6cd5\u65af",
+            "nga_path": "./mon_202110/15/-pobugQ8jv5-a0avKcT8S28-28.png",
+            "path": "./icons/chara/s/110397_01_r05.png"
         }
     },
     "dragon": {
