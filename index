@@ -6043,6 +6043,12 @@
             "name": "\u6cd5\u65af",
             "nga_path": "./mon_202110/15/-pobugQ8jv5-a0avKcT8S28-28.png",
             "path": "./icons/chara/s/110397_01_r05.png"
+        },
+        "110398_01_r05": {
+            "id": "10250404",
+            "name": "\u5e7b\u8eab\u6731\u5e87\u7279",
+            "nga_path": "./mon_202111/12/-pobugQtslc-6fi0KdT8S28-28.png",
+            "path": "./icons/chara/s/110398_01_r05.png"
         }
     },
     "dragon": {
@@ -6801,6 +6807,12 @@
             "name": "\u5df4\u54c8\u59c6\u7279\uff08Fes\u9650\u5b9aVer.\uff09",
             "nga_path": "./mon_202109/30/-pobugQn4a0-4d43KbT8S28-28.png",
             "path": "./icons/dragon/s/210162_01.png"
+        },
+        "210163_01": {
+            "id": "20050118",
+            "name": "\u4e4c\u5217",
+            "nga_path": "./mon_202111/12/-pobugQtslc-ja2tKdT8S28-28.png",
+            "path": "./icons/dragon/s/210163_01.png"
         },
         "210164_01": {
             "id": "20050418",
