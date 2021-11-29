@@ -3444,6 +3444,54 @@
             "nga_path": "./mon_202110/29/-pobugQ17b-fk2oKdT8S28-28.png",
             "path": "./icons/amulet/s/400486_02.png"
         },
+        "400487_01": {
+            "id": "40050147",
+            "name": "\u5973\u795e\u7684\u661f\u9f99\u796d",
+            "nga_path": "./mon_202111/29/-pobugQ2p-h5gbKcT8S28-28.png",
+            "path": "./icons/amulet/s/400487_01.png"
+        },
+        "400487_02": {
+            "id": "40050147",
+            "name": "\u5973\u795e\u7684\u661f\u9f99\u796d",
+            "nga_path": "./mon_202111/29/-pobugQ2p-9dvnKcT8S28-28.png",
+            "path": "./icons/amulet/s/400487_02.png"
+        },
+        "400488_01": {
+            "id": "40040101",
+            "name": "\u6765\u81ea\u5929\u4f7f\u7684\u793c\u7269",
+            "nga_path": "./mon_202111/29/-pobugQ2p-1cmxKcT8S28-28.png",
+            "path": "./icons/amulet/s/400488_01.png"
+        },
+        "400488_02": {
+            "id": "40040101",
+            "name": "\u6765\u81ea\u5929\u4f7f\u7684\u793c\u7269",
+            "nga_path": "./mon_202111/29/-pobugQ2p-eb0lKdT8S28-28.png",
+            "path": "./icons/amulet/s/400488_02.png"
+        },
+        "400489_01": {
+            "id": "40040102",
+            "name": "\u95ea\u8000\u661f\u9f99\u796d",
+            "nga_path": "./mon_202111/29/-pobugQ2p-6k9tKdT8S28-28.png",
+            "path": "./icons/amulet/s/400489_01.png"
+        },
+        "400489_02": {
+            "id": "40040102",
+            "name": "\u95ea\u8000\u661f\u9f99\u796d",
+            "nga_path": "./mon_202111/29/-pobugQ2p-jjfcKdT8S28-28.png",
+            "path": "./icons/amulet/s/400489_02.png"
+        },
+        "400490_01": {
+            "id": "40050146",
+            "name": "\u4f7f\u5f92\u5bc6\u63a2",
+            "nga_path": "./mon_202111/29/-pobugQ2p-bommKcT8S28-28.png",
+            "path": "./icons/amulet/s/400490_01.png"
+        },
+        "400490_02": {
+            "id": "40050146",
+            "name": "\u4f7f\u5f92\u5bc6\u63a2",
+            "nga_path": "./mon_202111/29/-pobugQ2p-37feKdT8S28-28.png",
+            "path": "./icons/amulet/s/400490_02.png"
+        },
         "400491_01": {
             "id": "40050143",
             "name": "3\u5468\u5e74\u7eaa\u5ff5",
@@ -3469,6 +3517,12 @@
             "name": "\u4e3b\u4eba\u516c\uff08Fes\u9650\u5b9aVer.\uff09",
             "nga_path": "./mon_202107/11/-pobugQ2o-669yKdT8S28-28.png",
             "path": "./icons/chara/s/100001_08_r05.png"
+        },
+        "100001_11_r05": {
+            "id": "19100001",
+            "name": "{player_name}",
+            "nga_path": "./mon_202111/29/-pobugQ2p-jldmKcT8S28-28.png",
+            "path": "./icons/chara/s/100001_11_r05.png"
         },
         "100001_12_r05": {
             "id": "10350506",
@@ -3650,6 +3704,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-hegrKdT8S28-28.png",
             "path": "./icons/chara/s/100006_11_r05.png"
         },
+        "100007_01_r05": {
+            "id": "19100002",
+            "name": "\u7eb3\u59c6",
+            "nga_path": "./mon_202111/29/-pobugQ2p-bho9KbT8S28-28.png",
+            "path": "./icons/chara/s/100007_01_r05.png"
+        },
         "100007_07_r05": {
             "id": "10350303",
             "name": "\u7eb3\u59c6\uff08Fes\u9650\u5b9aVer.\uff09",
@@ -3661,6 +3721,18 @@
             "name": "\u585e\u897f\u5a05",
             "nga_path": "./mon_202107/11/-pobugQ2o-4npKbT8S28-28.png",
             "path": "./icons/chara/s/100009_01_r05.png"
+        },
+        "100009_04_r05": {
+            "id": "19100003",
+            "name": "\u8c1c\u4e4b\u5c11\u5973",
+            "nga_path": "./mon_202111/29/-pobugQ2p-3pr1KcT8S28-28.png",
+            "path": "./icons/chara/s/100009_04_r05.png"
+        },
+        "100009_06_r05": {
+            "id": "19100004",
+            "name": "\u7687\u5e1d\u585e\u897f\u5a05",
+            "nga_path": "./mon_202111/29/-pobugQ2p-hd5gKcT8S28-28.png",
+            "path": "./icons/chara/s/100009_06_r05.png"
         },
         "100009_07_r05": {
             "id": "10750504",
@@ -3692,6 +3764,18 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-gw41KdT8S28-28.png",
             "path": "./icons/chara/s/100010_10_r05.png"
         },
+        "100012_01_r05": {
+            "id": "19100005",
+            "name": "\u4e9a\u7f57\u62c9\u65af",
+            "nga_path": "./mon_202111/29/-pobugQ2p-9f3sKbT8S28-28.png",
+            "path": "./icons/chara/s/100012_01_r05.png"
+        },
+        "100013_01_r05": {
+            "id": "19100006",
+            "name": "\u83b1\u6602\u5c3c\u591a",
+            "nga_path": "./mon_202111/29/-pobugQ2p-smzKbT8S28-28.png",
+            "path": "./icons/chara/s/100013_01_r05.png"
+        },
         "100013_04_r05": {
             "id": "10950101",
             "name": "\u83b1\u6602\u5c3c\u591a\uff08Fes\u9650\u5b9aVer.\uff09",
@@ -3703,6 +3787,18 @@
             "name": "\u83b1\u6602\u5c3c\u591a\uff08\u590f\u65e5Ver.\uff09",
             "nga_path": "./mon_202107/30/-pobugQ8im1-9146KcT8S28-28.png",
             "path": "./icons/chara/s/100013_06_r05.png"
+        },
+        "100014_01_r05": {
+            "id": "19100007",
+            "name": "\u6cd5\u5c14\u827e\u65af",
+            "nga_path": "./mon_202111/29/-pobugQ2p-dgvkKbT8S28-28.png",
+            "path": "./icons/chara/s/100014_01_r05.png"
+        },
+        "100015_03_r05": {
+            "id": "19100008",
+            "name": "\u8c22\u65af",
+            "nga_path": "./mon_202111/29/-pobugQ2p-4wkaKbT8S28-28.png",
+            "path": "./icons/chara/s/100015_03_r05.png"
         },
         "100015_04_r05": {
             "id": "10650503",
@@ -3721,6 +3817,18 @@
             "name": "\u8c22\u65af\uff08\u590f\u65e5Ver.\uff09",
             "nga_path": "./mon_202108/04/-pobugQ174-ksk2KcT8S28-28.png",
             "path": "./icons/chara/s/100015_08_r05.png"
+        },
+        "100016_01_r05": {
+            "id": "19100009",
+            "name": "\u5df4\u5c14\u5e93\u65af",
+            "nga_path": "./mon_202111/29/-pobugQ2p-hty9KbT8S28-28.png",
+            "path": "./icons/chara/s/100016_01_r05.png"
+        },
+        "100017_01_r05": {
+            "id": "19100010",
+            "name": "\u827e\u7f2a\u5c14",
+            "nga_path": "./mon_202111/29/-pobugQ2p-9d08KbT8S28-28.png",
+            "path": "./icons/chara/s/100017_01_r05.png"
         },
         "100018_01_r05": {
             "id": "19900002",
@@ -3746,11 +3854,29 @@
             "nga_path": "./mon_202109/03/-pobugQ8j6p-5dbvKcT8S28-28.png",
             "path": "./icons/chara/s/100018_07_r05.png"
         },
+        "100019_01_r05": {
+            "id": "19100011",
+            "name": "\u6d1b\u57fa",
+            "nga_path": "./mon_202111/29/-pobugQ2p-owpKaT8S28-28.png",
+            "path": "./icons/chara/s/100019_01_r05.png"
+        },
         "100019_02_r05": {
             "id": "10250305",
             "name": "\u54c8\u5c14",
             "nga_path": "./mon_202109/30/-pobugQn4a0-1xuaKcT8S28-28.png",
             "path": "./icons/chara/s/100019_02_r05.png"
+        },
+        "100023_01_r05": {
+            "id": "19100013",
+            "name": "\u624e\u5361\u5229\u4e9a\u65af",
+            "nga_path": "./mon_202111/29/-pobugQ2p-e1glKbT8S28-28.png",
+            "path": "./icons/chara/s/100023_01_r05.png"
+        },
+        "100029_01_r05": {
+            "id": "19100014",
+            "name": "\u5e0c\u91cc\u4e1d",
+            "nga_path": "./mon_202111/29/-pobugQ2p-69vuKbT8S28-28.png",
+            "path": "./icons/chara/s/100029_01_r05.png"
         },
         "100029_02_r05": {
             "id": "10650101",
@@ -3769,6 +3895,24 @@
             "name": "\u5e0c\u91cc\u4e1d\uff08\u94f3\u58ebVer.\uff09",
             "nga_path": "./mon_202107/11/-pobugQ2o-y0KdT8S28-28.png",
             "path": "./icons/chara/s/100029_04_r05.png"
+        },
+        "100030_01_r05": {
+            "id": "19100015",
+            "name": "\u83ab\u5c14\u6258\u6885\u585e\u4e9a",
+            "nga_path": "./mon_202111/29/-pobugQ2p-gzxbKbT8S28-28.png",
+            "path": "./icons/chara/s/100030_01_r05.png"
+        },
+        "100030_04_r05": {
+            "id": "19100065",
+            "name": "\u83ab\u5c14\u6258\u6885\u585e\u4e9a",
+            "nga_path": "./mon_202111/29/-pobugQ2p-9918KbT8S28-28.png",
+            "path": "./icons/chara/s/100030_04_r05.png"
+        },
+        "100031_01_r05": {
+            "id": "19100016",
+            "name": "\u963f\u5c14\u8d1d\u7409\u65af",
+            "nga_path": "./mon_202111/29/-pobugQ2p-1f24KbT8S28-28.png",
+            "path": "./icons/chara/s/100031_01_r05.png"
         },
         "100031_03_r05": {
             "id": "10150503",
@@ -3800,11 +3944,95 @@
             "nga_path": "./mon_202110/29/-pobugQ17b-5gjyKdT8S28-28.png",
             "path": "./icons/chara/s/100032_07_r05.png"
         },
+        "100033_01_r05": {
+            "id": "19100017",
+            "name": "\u5362\u5f17\u00b7\u6258\u4fee\u5361\u7279\u5c14",
+            "nga_path": "./mon_202111/29/-pobugQ2p-f182KbT8S28-28.png",
+            "path": "./icons/chara/s/100033_01_r05.png"
+        },
+        "100034_01_r05": {
+            "id": "19100018",
+            "name": "\u51ef\u4e25",
+            "nga_path": "./mon_202111/29/-pobugQ2p-777qKbT8S28-28.png",
+            "path": "./icons/chara/s/100034_01_r05.png"
+        },
+        "100035_01_r05": {
+            "id": "19100019",
+            "name": "\u8c22\u5e0c\u8036\u5c14",
+            "nga_path": "./mon_202111/29/-pobugQ2p-kruuKbT8S28-28.png",
+            "path": "./icons/chara/s/100035_01_r05.png"
+        },
+        "100036_01_r05": {
+            "id": "19100020",
+            "name": "\u4e59\u7fbd",
+            "nga_path": "./mon_202111/29/-pobugQ2p-cs1fKbT8S28-28.png",
+            "path": "./icons/chara/s/100036_01_r05.png"
+        },
+        "100037_01_r05": {
+            "id": "19100021",
+            "name": "\u5f69\u7fbd",
+            "nga_path": "./mon_202111/29/-pobugQ2p-4qb2KbT8S28-28.png",
+            "path": "./icons/chara/s/100037_01_r05.png"
+        },
+        "100038_01_r05": {
+            "id": "19100022",
+            "name": "\u8d1d\u7ef4\u7279",
+            "nga_path": "./mon_202111/29/-pobugQ2p-gvrpKbT8S28-28.png",
+            "path": "./icons/chara/s/100038_01_r05.png"
+        },
+        "100039_01_r05": {
+            "id": "19100023",
+            "name": "\u5948\u8fea\u72b9",
+            "nga_path": "./mon_202111/29/-pobugQ2p-7jsoKbT8S28-28.png",
+            "path": "./icons/chara/s/100039_01_r05.png"
+        },
+        "100041_01_r05": {
+            "id": "19100024",
+            "name": "\u5854\u8033\u5854\u6d1b\u65af",
+            "nga_path": "./mon_202111/29/-pobugQ2p-kkbjKaT8S28-28.png",
+            "path": "./icons/chara/s/100041_01_r05.png"
+        },
+        "100042_01_r05": {
+            "id": "19100025",
+            "name": "\u8fe6\u9053\u592b",
+            "nga_path": "./mon_202111/29/-pobugQ2p-bzmkKbT8S28-28.png",
+            "path": "./icons/chara/s/100042_01_r05.png"
+        },
+        "100042_02_r05": {
+            "id": "10450104",
+            "name": "\u8fe6\u9053\u592b\uff08Fes\u9650\u5b9aVer.\uff09",
+            "nga_path": "./mon_202111/29/-pobugQ2p-3z8hKdT8S28-28.png",
+            "path": "./icons/chara/s/100042_02_r05.png"
+        },
+        "100043_01_r05": {
+            "id": "19100026",
+            "name": "\u5965\u8389\u52a0",
+            "nga_path": "./mon_202111/29/-pobugQ2p-d5mbKcT8S28-28.png",
+            "path": "./icons/chara/s/100043_01_r05.png"
+        },
+        "100044_01_r05": {
+            "id": "19100027",
+            "name": "\u5e2d\u83c8",
+            "nga_path": "./mon_202111/29/-pobugQ2p-55f2KaT8S28-28.png",
+            "path": "./icons/chara/s/100044_01_r05.png"
+        },
         "100045_01_r05": {
             "id": "10250203",
             "name": "\u9a6c\u65af\u53e4\u62c9\uff08Fes\u9650\u5b9aVer.\uff09",
             "nga_path": "./mon_202107/11/-pobugQ2o-1cb7KcT8S28-28.png",
             "path": "./icons/chara/s/100045_01_r05.png"
+        },
+        "100046_01_r05": {
+            "id": "19100028",
+            "name": "\u82ac\u7f57\u8fbe",
+            "nga_path": "./mon_202111/29/-pobugQ2p-iklkKbT8S28-28.png",
+            "path": "./icons/chara/s/100046_01_r05.png"
+        },
+        "100048_01_r05": {
+            "id": "19100029",
+            "name": "\u82a9\u7f57\u8fbe",
+            "nga_path": "./mon_202111/29/-pobugQ2p-ai37KbT8S28-28.png",
+            "path": "./icons/chara/s/100048_01_r05.png"
         },
         "100054_01_r05": {
             "id": "10250504",
@@ -5018,6 +5246,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-cu7zKdT8S28-28.png",
             "path": "./icons/chara/s/110256_01_r05.png"
         },
+        "110256_02_r05": {
+            "id": "19100030",
+            "name": "\u6d1b\u4f9d\u6cfd",
+            "nga_path": "./mon_202111/29/-pobugQ2p-1dt0KbT8S28-28.png",
+            "path": "./icons/chara/s/110256_02_r05.png"
+        },
         "110257_01_r04": {
             "id": "10840301",
             "name": "\u5362\u6069",
@@ -5870,6 +6104,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-aegzKcT8S28-28.png",
             "path": "./icons/chara/s/110365_01_r05.png"
         },
+        "110365_03_r05": {
+            "id": "10350304",
+            "name": "\u5948\u6587\uff08\u661f\u9f99\u796dVer.\uff09",
+            "nga_path": "./mon_202111/29/-pobugQ2p-ewnwKcT8S28-28.png",
+            "path": "./icons/chara/s/110365_03_r05.png"
+        },
         "110366_01_r05": {
             "id": "10650203",
             "name": "\u76ae\u8bfa",
@@ -6049,9 +6289,213 @@
             "name": "\u5e7b\u8eab\u6731\u5e87\u7279",
             "nga_path": "./mon_202111/12/-pobugQtslc-6fi0KdT8S28-28.png",
             "path": "./icons/chara/s/110398_01_r05.png"
+        },
+        "120053_01_r05": {
+            "id": "19100031",
+            "name": "\u5854\u7eb3\u6258\u65af",
+            "nga_path": "./mon_202111/29/-pobugQ2p-6xgwKcT8S28-28.png",
+            "path": "./icons/chara/s/120053_01_r05.png"
+        },
+        "120059_01_r05": {
+            "id": "19100032",
+            "name": "\u201c\u535a\u58eb\u201d",
+            "nga_path": "./mon_202111/29/-pobugQ2p-kevwKbT8S28-28.png",
+            "path": "./icons/chara/s/120059_01_r05.png"
+        },
+        "120067_01_r05": {
+            "id": "19100033",
+            "name": "\u62c9\u6258\u59ae",
+            "nga_path": "./mon_202111/29/-pobugQ2p-cqgnKbT8S28-28.png",
+            "path": "./icons/chara/s/120067_01_r05.png"
+        },
+        "120076_01_r05": {
+            "id": "19100034",
+            "name": "\u609f\u7a7a",
+            "nga_path": "./mon_202111/29/-pobugQ2p-3i4rKbT8S28-28.png",
+            "path": "./icons/chara/s/120076_01_r05.png"
+        },
+        "120082_01_r05": {
+            "id": "19100035",
+            "name": "\u5df4\u5df4\u91cc",
+            "nga_path": "./mon_202111/29/-pobugQ2p-gctuKbT8S28-28.png",
+            "path": "./icons/chara/s/120082_01_r05.png"
+        },
+        "120100_01_r05": {
+            "id": "19100036",
+            "name": "\u6bdb\u6bdb",
+            "nga_path": "./mon_202111/29/-pobugQ2p-7ufqKaT8S28-28.png",
+            "path": "./icons/chara/s/120100_01_r05.png"
+        },
+        "120101_01_r05": {
+            "id": "19100037",
+            "name": "\u5f90\u798f",
+            "nga_path": "./mon_202111/29/-pobugQ2p-l34vKbT8S28-28.png",
+            "path": "./icons/chara/s/120101_01_r05.png"
+        },
+        "120104_01_r05": {
+            "id": "19100038",
+            "name": "\u62c9\u5179\u8389",
+            "nga_path": "./mon_202111/29/-pobugQ2p-9fpcKbT8S28-28.png",
+            "path": "./icons/chara/s/120104_01_r05.png"
+        },
+        "120111_01_r05": {
+            "id": "19100039",
+            "name": "\u6bd4\u5361\u7f57",
+            "nga_path": "./mon_202111/29/-pobugQ2p-zi0KaT8S28-28.png",
+            "path": "./icons/chara/s/120111_01_r05.png"
+        },
+        "120119_01_r05": {
+            "id": "19100040",
+            "name": "\u6d1b\u57fa",
+            "nga_path": "./mon_202111/29/-pobugQ2p-e1i7KcT8S28-28.png",
+            "path": "./icons/chara/s/120119_01_r05.png"
+        },
+        "120135_01_r05": {
+            "id": "19100041",
+            "name": "\u9a6c\u65af\u53e4\u62c9",
+            "nga_path": "./mon_202111/29/-pobugQ2p-5nimKbT8S28-28.png",
+            "path": "./icons/chara/s/120135_01_r05.png"
+        },
+        "120139_01_r05": {
+            "id": "19100042",
+            "name": "\u514b\u6d1b\u8bfa\u65af",
+            "nga_path": "./mon_202111/29/-pobugQ2p-iopvKbT8S28-28.png",
+            "path": "./icons/chara/s/120139_01_r05.png"
+        },
+        "120177_01_r05": {
+            "id": "19100043",
+            "name": "\u5361\u5c14\u63d0",
+            "nga_path": "./mon_202111/29/-pobugQ2p-abp5KaT8S28-28.png",
+            "path": "./icons/chara/s/120177_01_r05.png"
+        },
+        "120178_01_r05": {
+            "id": "19100044",
+            "name": "\u5947\u5e7b\u2606\u76f4\u4eba",
+            "nga_path": "./mon_202111/29/-pobugQ2p-1u1gKbT8S28-28.png",
+            "path": "./icons/chara/s/120178_01_r05.png"
+        },
+        "120179_01_r05": {
+            "id": "19100045",
+            "name": "\u73ca\u7b1b",
+            "nga_path": "./mon_202111/29/-pobugQ2p-fhi6KaT8S28-28.png",
+            "path": "./icons/chara/s/120179_01_r05.png"
+        },
+        "120180_01_r05": {
+            "id": "19100046",
+            "name": "\u8d1d\u742a",
+            "nga_path": "./mon_202111/29/-pobugQ2p-7qnhKbT8S28-28.png",
+            "path": "./icons/chara/s/120180_01_r05.png"
+        },
+        "120181_01_r05": {
+            "id": "19100047",
+            "name": "\u65af",
+            "nga_path": "./mon_202111/29/-pobugQ2p-keqiKaT8S28-28.png",
+            "path": "./icons/chara/s/120181_01_r05.png"
+        },
+        "120182_01_r05": {
+            "id": "19100048",
+            "name": "\u65af\u5824\u514b\u65af",
+            "nga_path": "./mon_202111/29/-pobugQ2p-c590KbT8S28-28.png",
+            "path": "./icons/chara/s/120182_01_r05.png"
+        },
+        "120183_01_r05": {
+            "id": "19100049",
+            "name": "\u6258\u5c14",
+            "nga_path": "./mon_202111/29/-pobugQ2p-3vkhKaT8S28-28.png",
+            "path": "./icons/chara/s/120183_01_r05.png"
+        },
+        "120185_01_r05": {
+            "id": "19100050",
+            "name": "\u7f8e\u7334\u738b",
+            "nga_path": "./mon_202111/29/-pobugQ2p-hb3gKbT8S28-28.png",
+            "path": "./icons/chara/s/120185_01_r05.png"
+        },
+        "120188_01_r05": {
+            "id": "19100051",
+            "name": "\u8001\u677f\u5a18\u65af\u5824\u514b\u65af",
+            "nga_path": "./mon_202111/29/-pobugQ2p-5tydKcT8S28-28.png",
+            "path": "./icons/chara/s/120188_01_r05.png"
+        },
+        "120194_01_r05": {
+            "id": "19100052",
+            "name": "\u53e4\u62c9\u7279",
+            "nga_path": "./mon_202111/29/-pobugQ2p-iyppKaT8S28-28.png",
+            "path": "./icons/chara/s/120194_01_r05.png"
+        },
+        "120195_01_r05": {
+            "id": "19100053",
+            "name": "\u5723\u5fb7\u82ac",
+            "nga_path": "./mon_202111/29/-pobugQ2p-b16eKaT8S28-28.png",
+            "path": "./icons/chara/s/120195_01_r05.png"
+        },
+        "120200_01_r05": {
+            "id": "19100054",
+            "name": "\u65af\u5e93\u62c9",
+            "nga_path": "./mon_202111/29/-pobugQ2p-2yu5KcT8S28-28.png",
+            "path": "./icons/chara/s/120200_01_r05.png"
+        },
+        "120201_01_r05": {
+            "id": "19100055",
+            "name": "\u5965\u53e4\u65af",
+            "nga_path": "./mon_202111/29/-pobugQ2p-fmjiKaT8S28-28.png",
+            "path": "./icons/chara/s/120201_01_r05.png"
+        },
+        "120205_01_r05": {
+            "id": "19100056",
+            "name": "\u9732\u4e1d",
+            "nga_path": "./mon_202111/29/-pobugQ2p-7ufqKbT8S28-28.png",
+            "path": "./icons/chara/s/120205_01_r05.png"
+        },
+        "120212_01_r05": {
+            "id": "19100057",
+            "name": "\u9053\u6ee1",
+            "nga_path": "./mon_202111/29/-pobugQ2p-kmp7KbT8S28-28.png",
+            "path": "./icons/chara/s/120212_01_r05.png"
+        },
+        "120217_01_r05": {
+            "id": "19100058",
+            "name": "\u6cd5\u65af",
+            "nga_path": "./mon_202111/29/-pobugQ2p-bsvyKbT8S28-28.png",
+            "path": "./icons/chara/s/120217_01_r05.png"
+        },
+        "120218_01_r05": {
+            "id": "19100059",
+            "name": "\u739b\u742a\u5a1c",
+            "nga_path": "./mon_202111/29/-pobugQ2p-2mkyKaT8S28-28.png",
+            "path": "./icons/chara/s/120218_01_r05.png"
+        },
+        "120223_01_r05": {
+            "id": "19100060",
+            "name": "\u5df4\u6bd4",
+            "nga_path": "./mon_202111/29/-pobugQ2p-g1o5KaT8S28-28.png",
+            "path": "./icons/chara/s/120223_01_r05.png"
+        },
+        "120225_01_r05": {
+            "id": "19100061",
+            "name": "\u8482\u4e9a\u5a1c",
+            "nga_path": "./mon_202111/29/-pobugQ2p-81xiKbT8S28-28.png",
+            "path": "./icons/chara/s/120225_01_r05.png"
+        },
+        "120231_01_r05": {
+            "id": "19100062",
+            "name": "\u7c73\u8fe6\u52d2",
+            "nga_path": "./mon_202111/29/-pobugQ2p-kkgkKbT8S28-28.png",
+            "path": "./icons/chara/s/120231_01_r05.png"
+        },
+        "120237_02_r05": {
+            "id": "19100063",
+            "name": "\u201c\u519b\u58eb\u957f\u201d",
+            "nga_path": "./mon_202111/29/-pobugQ2p-brbvKbT8S28-28.png",
+            "path": "./icons/chara/s/120237_02_r05.png"
         }
     },
     "dragon": {
+        "200001_01": {
+            "id": "21000001",
+            "name": "\u5723\u57df\u9f99",
+            "nga_path": "./mon_202111/29/-pobugQ2p-zyqKcT8S28-28.png",
+            "path": "./icons/dragon/s/200001_01.png"
+        },
         "200009_01": {
             "id": "20050113",
             "name": "\u739b\u65af\uff08Fes\u9650\u5b9aVer.\uff09",
@@ -6063,6 +6507,12 @@
             "name": "\u666e\u9c81\u6258",
             "nga_path": "./mon_202107/11/-pobugQ2o-6dt8KcT8S28-28.png",
             "path": "./icons/dragon/s/200010_01.png"
+        },
+        "200011_01": {
+            "id": "21000002",
+            "name": "\u666e\u9c81\u6258",
+            "nga_path": "./mon_202111/29/-pobugQ2p-e1lcKcT8S28-28.png",
+            "path": "./icons/dragon/s/200011_01.png"
         },
         "200017_01": {
             "id": "20050519",
@@ -6771,6 +7221,12 @@
             "name": "\u73ab\u7470\u5973\u738b",
             "nga_path": "./mon_202107/11/-pobugQ2o-hfxjKdT8S28-28.png",
             "path": "./icons/dragon/s/210152_01.png"
+        },
+        "210153_01": {
+            "id": "21000003",
+            "name": "\u7eb3\u59c6",
+            "nga_path": "./mon_202111/29/-pobugQ2p-5lfbKbT8S28-28.png",
+            "path": "./icons/dragon/s/210153_01.png"
         },
         "210154_01": {
             "id": "20050415",
@@ -10062,6 +10518,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-92kmKbT8S28-28.png",
             "path": "./icons/weapon/s/307012_01_49901.png"
         },
+        "307013_01_59901": {
+            "id": "30750216",
+            "name": "\u51b0\u6676\u5b88\u62a4",
+            "nga_path": "./mon_202111/29/-pobugQ2p-jan2KbT8S28-28.png",
+            "path": "./icons/weapon/s/307013_01_59901.png"
+        },
         "307014_01_50301": {
             "id": "30750301",
             "name": "\u4e91\u4e4b\u82b1\u51a0",
@@ -11315,6 +11777,18 @@
             "name": "\u7ec8\u672b\u4e4b\u7ea6",
             "nga_path": "./mon_202109/30/-pobugQ4yo8-koseKdT8S28-28.png",
             "path": "./icons/weapon/s/399059_01_59901.png"
+        },
+        "399062_01_59901": {
+            "id": "30150119",
+            "name": "\u707c\u70ed\u519b\u56e2\u5251",
+            "nga_path": "./mon_202111/29/-pobugQ2p-bcc3KbT8S28-28.png",
+            "path": "./icons/weapon/s/399062_01_59901.png"
+        },
+        "399063_01_59901": {
+            "id": "30150219",
+            "name": "\u51b7\u9759\u8d24\u8005\u5251",
+            "nga_path": "./mon_202111/29/-pobugQ2p-3iq2KbT8S28-28.png",
+            "path": "./icons/weapon/s/399063_01_59901.png"
         }
     }
 }
