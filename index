@@ -6122,6 +6122,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-g0ujKcT8S28-28.png",
             "path": "./icons/chara/s/110367_01_r05.png"
         },
+        "110367_03_r05": {
+            "id": "10950103",
+            "name": "\u4f0a\u8389\u96c5\uff08\u661f\u9f99\u796dVer.\uff09",
+            "nga_path": "./mon_202112/03/-pobugQ2p-g4dlKdT8S28-28.png",
+            "path": "./icons/chara/s/110367_03_r05.png"
+        },
         "110368_01_r05": {
             "id": "10650303",
             "name": "\u6885\u5948",
