@@ -3520,7 +3520,7 @@
         },
         "100001_11_r05": {
             "id": "19100001",
-            "name": "\u4e3b\u4eba\u516c",
+            "name": "\u5c24\u8482\u5c14",
             "nga_path": "./mon_202111/29/-pobugQ2p-jldmKcT8S28-28.png",
             "path": "./icons/chara/s/100001_11_r05.png"
         },
@@ -6295,6 +6295,12 @@
             "name": "\u5e7b\u8eab\u6731\u5e87\u7279",
             "nga_path": "./mon_202111/12/-pobugQtslc-6fi0KdT8S28-28.png",
             "path": "./icons/chara/s/110398_01_r05.png"
+        },
+        "110399_01_r05": {
+            "id": "10850104",
+            "name": "\u5f69\u7fbd&\u4e59\u7fbd",
+            "nga_path": "./mon_202112/15/-pobugQ2p-47c1KdT8S28-28.png",
+            "path": "./icons/chara/s/110399_01_r05.png"
         },
         "120053_01_r05": {
             "id": "19100031",
