@@ -3497,6 +3497,42 @@
             "name": "3\u5468\u5e74\u7eaa\u5ff5",
             "nga_path": "./mon_202109/27/-pobugQj81-cy2pKdT8S28-28.png",
             "path": "./icons/amulet/s/400491_01.png"
+        },
+        "400503_01": {
+            "id": "40000001",
+            "name": "\u52c7\u6562\u4e4b\u51a0",
+            "nga_path": "./mon_202112/29/-pobugQ2p-fyl0KcT8S28-28.png",
+            "path": "./icons/amulet/s/400503_01.png"
+        },
+        "400503_02": {
+            "id": "40000001",
+            "name": "\u52c7\u6562\u4e4b\u51a0",
+            "nga_path": "./mon_202112/29/-pobugQ2p-89doKeT8S28-28.png",
+            "path": "./icons/amulet/s/400503_02.png"
+        },
+        "400504_01": {
+            "id": "40000002",
+            "name": "\u73ab\u7470\u7cbe\u7075",
+            "nga_path": "./mon_202112/29/-pobugQ2p-l83pKdT8S28-28.png",
+            "path": "./icons/amulet/s/400504_01.png"
+        },
+        "400504_02": {
+            "id": "40000002",
+            "name": "\u73ab\u7470\u7cbe\u7075",
+            "nga_path": "./mon_202112/29/-pobugQ2p-csshKdT8S28-28.png",
+            "path": "./icons/amulet/s/400504_02.png"
+        },
+        "400505_01": {
+            "id": "40000003",
+            "name": "\u5fd7\u540c\u9053\u5408\u4e4b\u4eba\u7684\u524d\u8def",
+            "nga_path": "./mon_202112/29/-pobugQ2p-3vnkKdT8S28-28.png",
+            "path": "./icons/amulet/s/400505_01.png"
+        },
+        "400505_02": {
+            "id": "40000003",
+            "name": "\u5fd7\u540c\u9053\u5408\u4e4b\u4eba\u7684\u524d\u8def",
+            "nga_path": "./mon_202112/29/-pobugQ2p-gqtxKdT8S28-28.png",
+            "path": "./icons/amulet/s/400505_02.png"
         }
     },
     "chara": {
@@ -7302,6 +7338,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-7l5wKbT8S28-28.png",
             "path": "./icons/weapon/s/301001_01_19901.png"
         },
+        "301001_01_19902": {
+            "id": "30100190",
+            "name": "\u8001\u65e7\u7684\u5251",
+            "nga_path": "",
+            "path": "./icons/weapon/s/301001_01_19902.png"
+        },
         "301002_01_29901": {
             "id": "30129901",
             "name": "\u58eb\u5175\u5251",
@@ -7368,6 +7410,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-ilmzKbT8S28-28.png",
             "path": "./icons/weapon/s/301015_01_50401.png"
         },
+        "301020_01_59901": {
+            "id": "30159921",
+            "name": "\u820d\u65bd\u5c14\u70ed\u7802\u5251",
+            "nga_path": "",
+            "path": "./icons/weapon/s/301020_01_59901.png"
+        },
         "301030_01_39901": {
             "id": "30139901",
             "name": "\u9a91\u58eb\u5251",
@@ -7428,11 +7476,23 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-ky4xKbT8S28-28.png",
             "path": "./icons/weapon/s/301039_01_39901.png"
         },
+        "301040_01_29901": {
+            "id": "30110190",
+            "name": "\u9a91\u58eb\u957f\u4e3d\u5251",
+            "nga_path": "",
+            "path": "./icons/weapon/s/301040_01_29901.png"
+        },
         "301040_01_49901": {
             "id": "30149901",
             "name": "\u9a91\u58eb\u957f\u4e3d\u5251",
             "nga_path": "./mon_202107/11/-pobugQ2o-cvvcKcT8S28-28.png",
             "path": "./icons/weapon/s/301040_01_49901.png"
+        },
+        "301041_01_39901": {
+            "id": "30120190",
+            "name": "\u82f1\u96c4\u4e4b\u5251",
+            "nga_path": "",
+            "path": "./icons/weapon/s/301041_01_39901.png"
         },
         "301041_01_59901": {
             "id": "30159901",
@@ -7475,6 +7535,12 @@
             "name": "\u706b\u5c71\u94f8\u94c1",
             "nga_path": "./mon_202107/11/-pobugQ2o-3dq8KbT8S28-28.png",
             "path": "./icons/weapon/s/301053_01_40101.png"
+        },
+        "301056_01_49901": {
+            "id": "30130190",
+            "name": "\u65e0\u4e0a\u4e1a\u706b",
+            "nga_path": "./mon_202112/29/-pobugQ2p-17d6KbT8S28-28.png",
+            "path": "./icons/weapon/s/301056_01_49901.png"
         },
         "301056_01_50101": {
             "id": "30150102",
@@ -7590,6 +7656,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-4adyKcT8S28-28.png",
             "path": "./icons/weapon/s/301097_01_50201.png"
         },
+        "301098_01_49901": {
+            "id": "30130290",
+            "name": "\u8f70\u75be\u8fc5\u5251\u5a01\u5c14\u5fb7",
+            "nga_path": "./mon_202112/29/-pobugQ2p-a0gbKbT8S28-28.png",
+            "path": "./icons/weapon/s/301098_01_49901.png"
+        },
         "301098_01_50301": {
             "id": "30150303",
             "name": "\u8f70\u75be\u8fc5\u5251\u5a01\u5c14\u5fb7",
@@ -7601,6 +7673,12 @@
             "name": "\u5149\u8000\u4f7f\u8005",
             "nga_path": "./mon_202107/11/-pobugQ2o-9k81KbT8S28-28.png",
             "path": "./icons/weapon/s/301105_01_50401.png"
+        },
+        "301106_01_49901": {
+            "id": "30130390",
+            "name": "\u6df1\u6e0a\u4f7f\u8005",
+            "nga_path": "./mon_202112/29/-pobugQ2p-jwjgKbT8S28-28.png",
+            "path": "./icons/weapon/s/301106_01_49901.png"
         },
         "301106_01_50501": {
             "id": "30150502",
@@ -7656,6 +7734,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-3h51KbT8S28-28.png",
             "path": "./icons/weapon/s/301120_01_50201.png"
         },
+        "301120_01_59901": {
+            "id": "30140390",
+            "name": "\u9752\u9f99\u5251\u6ca7\u6d77\u00b7\u96f6",
+            "nga_path": "./mon_202112/29/-pobugQ2p-7lw7KbT8S28-28.png",
+            "path": "./icons/weapon/s/301120_01_59901.png"
+        },
         "301121_01_50401": {
             "id": "30150410",
             "name": "\u8f89\u9f99\u5251\u96f7\u9706\u00b7\u96f6",
@@ -7668,11 +7752,23 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-i36zKbT8S28-28.png",
             "path": "./icons/weapon/s/301122_01_50101.png"
         },
+        "301122_01_59901": {
+            "id": "30140290",
+            "name": "\u7eef\u9f99\u5251\u7eef\u7ea2\u00b7\u96f6",
+            "nga_path": "./mon_202112/29/-pobugQ2p-fpkzKcT8S28-28.png",
+            "path": "./icons/weapon/s/301122_01_59901.png"
+        },
         "301123_01_50501": {
             "id": "30150503",
             "name": "\u6697\u9f99\u5251\u8bc5\u5492\u00b7\u96f6",
             "nga_path": "./mon_202107/11/-pobugQ2o-aqwiKbT8S28-28.png",
             "path": "./icons/weapon/s/301123_01_50501.png"
+        },
+        "301123_01_59901": {
+            "id": "30140190",
+            "name": "\u6697\u9f99\u5251\u8bc5\u5492\u00b7\u96f6",
+            "nga_path": "./mon_202112/29/-pobugQ2p-3qbmKcT8S28-28.png",
+            "path": "./icons/weapon/s/301123_01_59901.png"
         },
         "301125_01_50101": {
             "id": "30150115",
@@ -7746,6 +7842,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-lf0qKbT8S28-28.png",
             "path": "./icons/weapon/s/301138_01_60101.png"
         },
+        "301138_01_69901": {
+            "id": "30150290",
+            "name": "\u8bfa\u987f\u514b",
+            "nga_path": "./mon_202112/29/-pobugQ2p-cn0tKcT8S28-28.png",
+            "path": "./icons/weapon/s/301138_01_69901.png"
+        },
         "301139_01_60201": {
             "id": "30160201",
             "name": "\u5929\u4e1b\u4e91\u5251",
@@ -7758,11 +7860,23 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-6ry1KcT8S28-28.png",
             "path": "./icons/weapon/s/301140_01_60301.png"
         },
+        "301140_01_69901": {
+            "id": "30150190",
+            "name": "\u65ad\u94a2\u5251",
+            "nga_path": "./mon_202112/29/-pobugQ2p-2jKcT8S28-28.png",
+            "path": "./icons/weapon/s/301140_01_69901.png"
+        },
         "301141_01_60401": {
             "id": "30160401",
             "name": "\u5361\u62c9\u5fb7\u6ce2\u52a0",
             "nga_path": "./mon_202107/11/-pobugQ2o-kptkKbT8S28-28.png",
             "path": "./icons/weapon/s/301141_01_60401.png"
+        },
+        "301141_01_69901": {
+            "id": "30150390",
+            "name": "\u5361\u62c9\u5fb7\u6ce2\u52a0",
+            "nga_path": "./mon_202112/29/-pobugQ2p-7y30KbT8S28-28.png",
+            "path": "./icons/weapon/s/301141_01_69901.png"
         },
         "301142_01_60501": {
             "id": "30160501",
@@ -7836,6 +7950,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-4sesKbT8S28-28.png",
             "path": "./icons/weapon/s/302001_01_19901.png"
         },
+        "302001_01_19902": {
+            "id": "30200190",
+            "name": "\u8001\u65e7\u7684\u5200",
+            "nga_path": "./mon_202112/29/-pobugQ2p-hm8rKcT8S28-28.png",
+            "path": "./icons/weapon/s/302001_01_19902.png"
+        },
         "302006_01_30101": {
             "id": "30230101",
             "name": "\u5df4\u5c14\u52a0\u4e4b\u5203",
@@ -7872,6 +7992,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-fziKbT8S28-28.png",
             "path": "./icons/weapon/s/302011_01_40301.png"
         },
+        "302012_01_29901": {
+            "id": "30210190",
+            "name": "\u9547\u5b88\u5200",
+            "nga_path": "./mon_202112/29/-pobugQ2p-435xKcT8S28-28.png",
+            "path": "./icons/weapon/s/302012_01_29901.png"
+        },
         "302012_01_49901": {
             "id": "30249901",
             "name": "\u9547\u5b88\u5200",
@@ -7884,6 +8010,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-5sqtKaT8S28-28.png",
             "path": "./icons/weapon/s/302013_01_50101.png"
         },
+        "302014_01_39901": {
+            "id": "30220190",
+            "name": "\u9738\u738b\u53f7",
+            "nga_path": "./mon_202112/29/-pobugQ2p-cwnwKcT8S28-28.png",
+            "path": "./icons/weapon/s/302014_01_39901.png"
+        },
         "302014_01_59901": {
             "id": "30259901",
             "name": "\u9738\u738b\u53f7",
@@ -7895,6 +8027,12 @@
             "name": "\u7eef\u708e\u5200",
             "nga_path": "./mon_202107/11/-pobugQ2o-aw6xKaT8S28-28.png",
             "path": "./icons/weapon/s/302015_01_40101.png"
+        },
+        "302016_01_59901": {
+            "id": "30259921",
+            "name": "\u6c57\u4e0e\u6cea\u4e4b\u8001\u5175\u5203",
+            "nga_path": "./mon_202112/29/-pobugQ2p-4gqnKcT8S28-28.png",
+            "path": "./icons/weapon/s/302016_01_59901.png"
         },
         "302021_01_39901": {
             "id": "30239901",
@@ -7998,6 +8136,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-diuyKaT8S28-28.png",
             "path": "./icons/weapon/s/302042_01_40101.png"
         },
+        "302045_01_49901": {
+            "id": "30230190",
+            "name": "\u70c8\u65a9\u5200\u00b7\u5929\u53d8\u52ab\u706b",
+            "nga_path": "./mon_202112/29/-pobugQ2p-cbokKaT8S28-28.png",
+            "path": "./icons/weapon/s/302045_01_49901.png"
+        },
         "302045_01_50101": {
             "id": "30250102",
             "name": "\u70c8\u65a9\u5200\u00b7\u5929\u53d8\u52ab\u706b",
@@ -8051,6 +8195,12 @@
             "name": "\u7130\u5203\u00b7\u9b3c\u5207\u72f1\u708e",
             "nga_path": "./mon_202107/11/-pobugQ2o-iyq4KaT8S28-28.png",
             "path": "./icons/weapon/s/302057_01_50101.png"
+        },
+        "302058_01_49901": {
+            "id": "30230290",
+            "name": "\u6d6a\u5203\u00b7\u6ce2\u6d9b\u4e00\u6587\u5b57",
+            "nga_path": "./mon_202112/29/-pobugQ2p-ku68KbT8S28-28.png",
+            "path": "./icons/weapon/s/302058_01_49901.png"
         },
         "302058_01_50201": {
             "id": "30250202",
@@ -8148,6 +8298,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-gr6bKcT8S28-28.png",
             "path": "./icons/weapon/s/302088_01_50201.png"
         },
+        "302089_01_49901": {
+            "id": "30230390",
+            "name": "\u5927\u98d2\u00b7\u98ce\u9635\u4e00\u95ea",
+            "nga_path": "./mon_202112/29/-pobugQ2p-86e9KbT8S28-28.png",
+            "path": "./icons/weapon/s/302089_01_49901.png"
+        },
         "302089_01_50301": {
             "id": "30250303",
             "name": "\u5927\u98d2\u00b7\u98ce\u9635\u4e00\u95ea",
@@ -8208,6 +8364,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-hjfeKaT8S28-28.png",
             "path": "./icons/weapon/s/302110_01_50301.png"
         },
+        "302110_01_59901": {
+            "id": "30240290",
+            "name": "\u78a7\u5200\u00b7\u5929\u6daf\u65e0\u7a77",
+            "nga_path": "./mon_202112/29/-pobugQ2p-ik45KbT8S28-28.png",
+            "path": "./icons/weapon/s/302110_01_59901.png"
+        },
         "302111_01_50201": {
             "id": "30250204",
             "name": "\u9752\u5200\u00b7\u6012\u6d9b\u5954\u6d41",
@@ -8226,11 +8388,23 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-cy0gKaT8S28-28.png",
             "path": "./icons/weapon/s/302113_01_50101.png"
         },
+        "302113_01_59901": {
+            "id": "30240190",
+            "name": "\u7eef\u5200\u00b7\u8c6a\u708e\u8d6b\u706b",
+            "nga_path": "./mon_202112/29/-pobugQ2p-6j42KbT8S28-28.png",
+            "path": "./icons/weapon/s/302113_01_59901.png"
+        },
         "302114_01_50501": {
             "id": "30250503",
             "name": "\u6697\u5200\u00b7\u65e0\u660e\u5730\u72f1",
             "nga_path": "./mon_202107/11/-pobugQ2o-4hegKbT8S28-28.png",
             "path": "./icons/weapon/s/302114_01_50501.png"
+        },
+        "302114_01_59901": {
+            "id": "30240390",
+            "name": "\u6697\u5200\u00b7\u65e0\u660e\u5730\u72f1",
+            "nga_path": "./mon_202112/29/-pobugQ2p-ef2hKbT8S28-28.png",
+            "path": "./icons/weapon/s/302114_01_59901.png"
         },
         "302116_01_50101": {
             "id": "30250111",
@@ -8316,17 +8490,35 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-1n5nKbT8S28-28.png",
             "path": "./icons/weapon/s/302131_01_60301.png"
         },
+        "302131_01_69901": {
+            "id": "30250390",
+            "name": "\u963f\u9686\u6234\u7279",
+            "nga_path": "./mon_202112/29/-pobugQ2p-1arrKcT8S28-28.png",
+            "path": "./icons/weapon/s/302131_01_69901.png"
+        },
         "302132_01_60401": {
             "id": "30260401",
             "name": "\u4f5b\u62c9\u683c\u62c9\u514b",
             "nga_path": "./mon_202107/11/-pobugQ2o-erykKbT8S28-28.png",
             "path": "./icons/weapon/s/302132_01_60401.png"
         },
+        "302132_01_69901": {
+            "id": "30250290",
+            "name": "\u4f5b\u62c9\u683c\u62c9\u514b",
+            "nga_path": "./mon_202112/29/-pobugQ2p-bgfvKbT8S28-28.png",
+            "path": "./icons/weapon/s/302132_01_69901.png"
+        },
         "302133_01_60501": {
             "id": "30260501",
             "name": "\u4e03\u661f\u5b9d\u5200",
             "nga_path": "./mon_202107/11/-pobugQ2o-6f4qKbT8S28-28.png",
             "path": "./icons/weapon/s/302133_01_60501.png"
+        },
+        "302133_01_69901": {
+            "id": "30250190",
+            "name": "\u4e03\u661f\u5b9d\u5200",
+            "nga_path": "./mon_202112/29/-pobugQ2p-jclgKbT8S28-28.png",
+            "path": "./icons/weapon/s/302133_01_69901.png"
         },
         "302134_01_50101": {
             "id": "30250110",
@@ -8388,6 +8580,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-ivchKbT8S28-28.png",
             "path": "./icons/weapon/s/303001_01_19901.png"
         },
+        "303001_01_19902": {
+            "id": "30300190",
+            "name": "\u8001\u65e7\u7684\u77ed\u5251",
+            "nga_path": "./mon_202112/29/-pobugQ2p-6i99KbT8S28-28.png",
+            "path": "./icons/weapon/s/303001_01_19902.png"
+        },
         "303003_01_39901": {
             "id": "30339903",
             "name": "\u7231\u4e4b\u5315\u9996",
@@ -8441,6 +8639,12 @@
             "name": "\u7ea2\u83b2\u77ed\u5251",
             "nga_path": "./mon_202107/11/-pobugQ2o-5v3xKbT8S28-28.png",
             "path": "./icons/weapon/s/303015_01_40101.png"
+        },
+        "303016_01_59901": {
+            "id": "30359921",
+            "name": "\u95ea\u8000\u661f\u5203",
+            "nga_path": "./mon_202112/29/-pobugQ2p-exc3KbT8S28-28.png",
+            "path": "./icons/weapon/s/303016_01_59901.png"
         },
         "303017_01_40401": {
             "id": "30340401",
@@ -8508,6 +8712,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-2l63KbT8S28-28.png",
             "path": "./icons/weapon/s/303032_01_39901.png"
         },
+        "303033_01_29901": {
+            "id": "30310190",
+            "name": "\u7834\u574f\u77ed\u5251",
+            "nga_path": "./mon_202112/29/-pobugQ2p-22xvKbT8S28-28.png",
+            "path": "./icons/weapon/s/303033_01_29901.png"
+        },
         "303033_01_49901": {
             "id": "30349901",
             "name": "\u7834\u574f\u77ed\u5251",
@@ -8519,6 +8729,12 @@
             "name": "\u68a6\u60f3\u5927\u5251",
             "nga_path": "./mon_202107/11/-pobugQ2o-gh29KbT8S28-28.png",
             "path": "./icons/weapon/s/303034_01_49901.png"
+        },
+        "303035_01_39901": {
+            "id": "30320190",
+            "name": "\u9a6c\u6765\u514b\u529b\u58eb\u5251",
+            "nga_path": "./mon_202112/29/-pobugQ2p-fqhsKbT8S28-28.png",
+            "path": "./icons/weapon/s/303035_01_39901.png"
         },
         "303035_01_59901": {
             "id": "30359901",
@@ -8622,6 +8838,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-tpqKbT8S28-28.png",
             "path": "./icons/weapon/s/303063_01_40501.png"
         },
+        "303065_01_49901": {
+            "id": "30330190",
+            "name": "\u6731\u7ea2\u4e4b\u75db",
+            "nga_path": "./mon_202112/29/-pobugQ2p-2xc0KbT8S28-28.png",
+            "path": "./icons/weapon/s/303065_01_49901.png"
+        },
         "303065_01_50101": {
             "id": "30350103",
             "name": "\u6731\u7ea2\u4e4b\u75db",
@@ -8688,6 +8910,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-dbotKbT8S28-28.png",
             "path": "./icons/weapon/s/303087_01_50201.png"
         },
+        "303088_01_49901": {
+            "id": "30330390",
+            "name": "\u98ce\u65a9\u4e4b\u5203\u00b7\u7c89\u788e\u8005",
+            "nga_path": "./mon_202112/29/-pobugQ2p-c6t2KbT8S28-28.png",
+            "path": "./icons/weapon/s/303088_01_49901.png"
+        },
         "303088_01_50301": {
             "id": "30350303",
             "name": "\u98ce\u65a9\u4e4b\u5203\u00b7\u7c89\u788e\u8005",
@@ -8699,6 +8927,12 @@
             "name": "\u4e09\u89d2\u7ff1\u7fd4\u5203",
             "nga_path": "./mon_202107/11/-pobugQ2o-i2ieKbT8S28-28.png",
             "path": "./icons/weapon/s/303095_01_50401.png"
+        },
+        "303096_01_49901": {
+            "id": "30330290",
+            "name": "\u4e09\u89d2\u6d3b\u796d\u5203",
+            "nga_path": "./mon_202112/29/-pobugQ2p-k200KbT8S28-28.png",
+            "path": "./icons/weapon/s/303096_01_49901.png"
         },
         "303096_01_50501": {
             "id": "30350503",
@@ -8748,11 +8982,23 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-89h2KcT8S28-28.png",
             "path": "./icons/weapon/s/303109_01_50301.png"
         },
+        "303109_01_59901": {
+            "id": "30340190",
+            "name": "\u7edf\u5fa1\u66b4\u98ce\u4e4b\u5229\u722a",
+            "nga_path": "./mon_202112/29/-pobugQ2p-6dbhKbT8S28-28.png",
+            "path": "./icons/weapon/s/303109_01_59901.png"
+        },
         "303110_01_50201": {
             "id": "30350205",
             "name": "\u7edf\u5fa1\u6f6e\u6c50\u4e4b\u5229\u722a",
             "nga_path": "./mon_202107/11/-pobugQ2o-kw2wKcT8S28-28.png",
             "path": "./icons/weapon/s/303110_01_50201.png"
+        },
+        "303110_01_59901": {
+            "id": "30340390",
+            "name": "\u7edf\u5fa1\u6f6e\u6c50\u4e4b\u5229\u722a",
+            "nga_path": "./mon_202112/29/-pobugQ2p-f4avKcT8S28-28.png",
+            "path": "./icons/weapon/s/303110_01_59901.png"
         },
         "303111_01_50401": {
             "id": "30350404",
@@ -8771,6 +9017,12 @@
             "name": "\u7edf\u5fa1\u6697\u9ed1\u4e4b\u5229\u722a",
             "nga_path": "./mon_202107/11/-pobugQ2o-g6scKbT8S28-28.png",
             "path": "./icons/weapon/s/303113_01_50501.png"
+        },
+        "303113_01_59901": {
+            "id": "30340290",
+            "name": "\u7edf\u5fa1\u6697\u9ed1\u4e4b\u5229\u722a",
+            "nga_path": "./mon_202112/29/-pobugQ2p-24u4KbT8S28-28.png",
+            "path": "./icons/weapon/s/303113_01_59901.png"
         },
         "303115_01_50101": {
             "id": "30350111",
@@ -8844,6 +9096,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-hdfoKbT8S28-28.png",
             "path": "./icons/weapon/s/303128_01_60101.png"
         },
+        "303128_01_69901": {
+            "id": "30350390",
+            "name": "\u8d6b\u82e5\u63d0",
+            "nga_path": "./mon_202112/29/-pobugQ2p-aqbqKbT8S28-28.png",
+            "path": "./icons/weapon/s/303128_01_69901.png"
+        },
         "303129_01_60201": {
             "id": "30360201",
             "name": "\u5e03\u90fd\u5fa1\u9b42\u5203",
@@ -8862,11 +9120,23 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-eteuKbT8S28-28.png",
             "path": "./icons/weapon/s/303131_01_60401.png"
         },
+        "303131_01_69901": {
+            "id": "30350190",
+            "name": "\u514b\u52b3\u7d22\u62c9\u65af",
+            "nga_path": "./mon_202112/29/-pobugQ2p-j8jnKcT8S28-28.png",
+            "path": "./icons/weapon/s/303131_01_69901.png"
+        },
         "303132_01_60501": {
             "id": "30360501",
             "name": "\u9752\u8679\u5251",
             "nga_path": "./mon_202107/11/-pobugQ2o-6ijtKbT8S28-28.png",
             "path": "./icons/weapon/s/303132_01_60501.png"
+        },
+        "303132_01_69901": {
+            "id": "30350290",
+            "name": "\u9752\u8679\u5251",
+            "nga_path": "./mon_202112/29/-pobugQ2p-6lefKcT8S28-28.png",
+            "path": "./icons/weapon/s/303132_01_69901.png"
         },
         "303133_01_50101": {
             "id": "30350110",
@@ -8928,6 +9198,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-ktazKbT8S28-28.png",
             "path": "./icons/weapon/s/304001_01_19901.png"
         },
+        "304001_01_19902": {
+            "id": "30400190",
+            "name": "\u8001\u65e7\u7684\u65a7",
+            "nga_path": "./mon_202112/29/-pobugQ2p-ft3mKcT8S28-28.png",
+            "path": "./icons/weapon/s/304001_01_19902.png"
+        },
         "304006_01_30201": {
             "id": "30430201",
             "name": "\u6c34\u6d41\u4e4b\u65a7",
@@ -8963,6 +9239,12 @@
             "name": "\u6df1\u6d77\u53cc\u5203\u65a7",
             "nga_path": "./mon_202107/11/-pobugQ2o-d1b5KcT8S28-28.png",
             "path": "./icons/weapon/s/304011_01_40201.png"
+        },
+        "304012_01_39901": {
+            "id": "30420190",
+            "name": "\u80dc\u5229\u4e4b\u65a7",
+            "nga_path": "./mon_202112/29/-pobugQ2p-41z0KcT8S28-28.png",
+            "path": "./icons/weapon/s/304012_01_39901.png"
         },
         "304012_01_59901": {
             "id": "30459901",
@@ -9006,11 +9288,23 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-d8m6KcT8S28-28.png",
             "path": "./icons/weapon/s/304020_01_59901.png"
         },
+        "304024_01_59901": {
+            "id": "30459921",
+            "name": "\u4ec1\u6148\u5ba1\u5224\u65a7",
+            "nga_path": "./mon_202112/29/-pobugQ2p-e6joKcT8S28-28.png",
+            "path": "./icons/weapon/s/304024_01_59901.png"
+        },
         "304025_01_39901": {
             "id": "30439901",
             "name": "\u6218\u58eb\u4e4b\u65a7",
             "nga_path": "./mon_202107/11/-pobugQ2o-33j0KcT8S28-28.png",
             "path": "./icons/weapon/s/304025_01_39901.png"
+        },
+        "304026_01_29901": {
+            "id": "30410190",
+            "name": "\u5e73\u51e1\u4e4b\u65a7",
+            "nga_path": "./mon_202112/29/-pobugQ2p-5re8KbT8S28-28.png",
+            "path": "./icons/weapon/s/304026_01_29901.png"
         },
         "304026_01_49901": {
             "id": "30449901",
@@ -9090,6 +9384,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-1fosKbT8S28-28.png",
             "path": "./icons/weapon/s/304040_01_40501.png"
         },
+        "304043_01_49901": {
+            "id": "30430190",
+            "name": "\u5929\u706b\u5947\u89c2\u00b7\u9707\u6012",
+            "nga_path": "./mon_202112/29/-pobugQ2p-dgkwKbT8S28-28.png",
+            "path": "./icons/weapon/s/304043_01_49901.png"
+        },
         "304043_01_50101": {
             "id": "30450102",
             "name": "\u5929\u706b\u5947\u89c2\u00b7\u9707\u6012",
@@ -9156,6 +9456,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-5usvKcT8S28-28.png",
             "path": "./icons/weapon/s/304062_01_40401.png"
         },
+        "304066_01_49901": {
+            "id": "30430290",
+            "name": "\u6c38\u51bb\u7834\u574f\u65a7",
+            "nga_path": "./mon_202112/29/-pobugQ2p-fnaKcT8S28-28.png",
+            "path": "./icons/weapon/s/304066_01_49901.png"
+        },
         "304066_01_50201": {
             "id": "30450203",
             "name": "\u6c38\u51bb\u7834\u574f\u65a7",
@@ -9215,6 +9521,12 @@
             "name": "\u7edd\u671b\u5de8\u65a7",
             "nga_path": "./mon_202107/11/-pobugQ2o-3bi3KbT8S28-28.png",
             "path": "./icons/weapon/s/304094_01_50401.png"
+        },
+        "304095_01_49901": {
+            "id": "30430390",
+            "name": "\u6740\u622e\u5de8\u65a7",
+            "nga_path": "./mon_202112/29/-pobugQ2p-8u46KcT8S28-28.png",
+            "path": "./icons/weapon/s/304095_01_49901.png"
         },
         "304095_01_50501": {
             "id": "30450503",
@@ -9276,17 +9588,35 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-j26zKcT8S28-28.png",
             "path": "./icons/weapon/s/304110_01_50401.png"
         },
+        "304110_01_59901": {
+            "id": "30440290",
+            "name": "\u5929\u96f7\u65a7\u00b7\u4e07\u96f7",
+            "nga_path": "./mon_202112/29/-pobugQ2p-i8szKbT8S28-28.png",
+            "path": "./icons/weapon/s/304110_01_59901.png"
+        },
         "304111_01_50101": {
             "id": "30450104",
             "name": "\u7ea2\u707c\u65a7\u00b7\u5973\u738b",
             "nga_path": "./mon_202107/11/-pobugQ2o-aljdKcT8S28-28.png",
             "path": "./icons/weapon/s/304111_01_50101.png"
         },
+        "304111_01_59901": {
+            "id": "30440390",
+            "name": "\u7ea2\u707c\u65a7\u00b7\u5973\u738b",
+            "nga_path": "./mon_202112/29/-pobugQ2p-4m1uKcT8S28-28.png",
+            "path": "./icons/weapon/s/304111_01_59901.png"
+        },
         "304112_01_50501": {
             "id": "30450504",
             "name": "\u6697\u5492\u65a7\u00b7\u652f\u914d",
             "nga_path": "./mon_202107/11/-pobugQ2o-2e0lKbT8S28-28.png",
             "path": "./icons/weapon/s/304112_01_50501.png"
+        },
+        "304112_01_59901": {
+            "id": "30440190",
+            "name": "\u6697\u5492\u65a7\u00b7\u652f\u914d",
+            "nga_path": "./mon_202112/29/-pobugQ2p-cchoKcT8S28-28.png",
+            "path": "./icons/weapon/s/304112_01_59901.png"
         },
         "304114_01_50101": {
             "id": "30450111",
@@ -9366,11 +9696,23 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-1k99KcT8S28-28.png",
             "path": "./icons/weapon/s/304128_01_60201.png"
         },
+        "304128_01_69901": {
+            "id": "30450390",
+            "name": "\u795e\u5ea6\u65a7",
+            "nga_path": "./mon_202112/29/-pobugQ2p-k8z8KbT8S28-28.png",
+            "path": "./icons/weapon/s/304128_01_69901.png"
+        },
         "304129_01_60301": {
             "id": "30460301",
             "name": "\u739b\u7c73\u4e9a\u591a\u65af",
             "nga_path": "./mon_202107/11/-pobugQ2o-dog3KdT8S28-28.png",
             "path": "./icons/weapon/s/304129_01_60301.png"
+        },
+        "304129_01_69901": {
+            "id": "30450190",
+            "name": "\u739b\u7c73\u4e9a\u591a\u65af",
+            "nga_path": "./mon_202112/29/-pobugQ2p-6ocbKcT8S28-28.png",
+            "path": "./icons/weapon/s/304129_01_69901.png"
         },
         "304130_01_60401": {
             "id": "30460401",
@@ -9383,6 +9725,12 @@
             "name": "\u65b9\u5929\u753b\u621f",
             "nga_path": "./mon_202107/11/-pobugQ2o-c5r0KcT8S28-28.png",
             "path": "./icons/weapon/s/304131_01_60501.png"
+        },
+        "304131_01_69901": {
+            "id": "30450290",
+            "name": "\u65b9\u5929\u753b\u621f",
+            "nga_path": "./mon_202112/29/-pobugQ2p-g94oKcT8S28-28.png",
+            "path": "./icons/weapon/s/304131_01_69901.png"
         },
         "304132_01_50101": {
             "id": "30450110",
@@ -9438,6 +9786,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-e9drKaT8S28-28.png",
             "path": "./icons/weapon/s/305001_01_19901.png"
         },
+        "305001_01_19902": {
+            "id": "30500190",
+            "name": "\u8001\u65e7\u7684\u67aa",
+            "nga_path": "./mon_202112/29/-pobugQ2p-3g3uKbT8S28-28.png",
+            "path": "./icons/weapon/s/305001_01_19902.png"
+        },
         "305006_01_30101": {
             "id": "30530101",
             "name": "\u65e0\u540d\u52c7\u8005\u4e4b\u67aa",
@@ -9486,6 +9840,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-bmbbKbT8S28-28.png",
             "path": "./icons/weapon/s/305014_01_50201.png"
         },
+        "305015_01_39901": {
+            "id": "30520190",
+            "name": "\u62a4\u6cd5\u4e4b\u67aa",
+            "nga_path": "./mon_202112/29/-pobugQ2p-crofKcT8S28-28.png",
+            "path": "./icons/weapon/s/305015_01_39901.png"
+        },
         "305015_01_59901": {
             "id": "30559901",
             "name": "\u62a4\u6cd5\u4e4b\u67aa",
@@ -9504,11 +9864,23 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-2z7fKbT8S28-28.png",
             "path": "./icons/weapon/s/305017_01_30301.png"
         },
+        "305025_01_59901": {
+            "id": "30559921",
+            "name": "\u4e5d\u73af\u9521\u67aa",
+            "nga_path": "./mon_202112/29/-pobugQ2p-czjKdT8S28-28.png",
+            "path": "./icons/weapon/s/305025_01_59901.png"
+        },
         "305028_01_30401": {
             "id": "30530402",
             "name": "\u6770\u514b\u5357\u74dc\u67aa",
             "nga_path": "./mon_202107/11/-pobugQ2o-g43wKbT8S28-28.png",
             "path": "./icons/weapon/s/305028_01_30401.png"
+        },
+        "305029_01_29901": {
+            "id": "30510190",
+            "name": "\u5f3a\u8005\u4e4b\u621f",
+            "nga_path": "./mon_202112/29/-pobugQ2p-ch3lKcT8S28-28.png",
+            "path": "./icons/weapon/s/305029_01_29901.png"
         },
         "305029_01_49901": {
             "id": "30549901",
@@ -9678,6 +10050,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-3atlKbT8S28-28.png",
             "path": "./icons/weapon/s/305071_01_40501.png"
         },
+        "305077_01_49901": {
+            "id": "30530190",
+            "name": "\u708e\u8f70\u4e71\u821e\u4e4b\u67aa",
+            "nga_path": "./mon_202112/29/-pobugQ2p-pt5KaT8S28-28.png",
+            "path": "./icons/weapon/s/305077_01_49901.png"
+        },
         "305077_01_50101": {
             "id": "30550102",
             "name": "\u708e\u8f70\u4e71\u821e\u4e4b\u67aa",
@@ -9738,6 +10116,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-4m49KbT8S28-28.png",
             "path": "./icons/weapon/s/305093_01_50201.png"
         },
+        "305094_01_49901": {
+            "id": "30530390",
+            "name": "\u5fa1\u5c9a\u4e09\u53c9\u621f",
+            "nga_path": "./mon_202112/29/-pobugQ2p-9tj1KbT8S28-28.png",
+            "path": "./icons/weapon/s/305094_01_49901.png"
+        },
         "305094_01_50301": {
             "id": "30550303",
             "name": "\u5fa1\u5c9a\u4e09\u53c9\u621f",
@@ -9749,6 +10133,12 @@
             "name": "\u5723\u67aa\u5931\u843d\u66ae\u5149",
             "nga_path": "./mon_202107/11/-pobugQ2o-bjetKaT8S28-28.png",
             "path": "./icons/weapon/s/305101_01_50401.png"
+        },
+        "305102_01_49901": {
+            "id": "30530290",
+            "name": "\u90aa\u67aa\u6076\u9b54\u65e5\u98df",
+            "nga_path": "./mon_202112/29/-pobugQ2p-ipoxKcT8S28-28.png",
+            "path": "./icons/weapon/s/305102_01_49901.png"
         },
         "305102_01_50501": {
             "id": "30550503",
@@ -9798,11 +10188,23 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-9akqKbT8S28-28.png",
             "path": "./icons/weapon/s/305115_01_50301.png"
         },
+        "305115_01_59901": {
+            "id": "30540290",
+            "name": "\u6307\u5f15\u4e4b\u70c8\u98ce\u621f",
+            "nga_path": "./mon_202112/29/-pobugQ2p-7b8bKbT8S28-28.png",
+            "path": "./icons/weapon/s/305115_01_59901.png"
+        },
         "305116_01_50201": {
             "id": "30550205",
             "name": "\u6e05\u6f84\u4e4b\u5954\u6d41\u621f",
             "nga_path": "./mon_202107/11/-pobugQ2o-iuh1KbT8S28-28.png",
             "path": "./icons/weapon/s/305116_01_50201.png"
+        },
+        "305116_01_59901": {
+            "id": "30540390",
+            "name": "\u6e05\u6f84\u4e4b\u5954\u6d41\u621f",
+            "nga_path": "./mon_202112/29/-pobugQ2p-gp2xKbT8S28-28.png",
+            "path": "./icons/weapon/s/305116_01_59901.png"
         },
         "305117_01_50401": {
             "id": "30550405",
@@ -9815,6 +10217,12 @@
             "name": "\u771f\u7ea2\u4e4b\u707c\u70ed\u621f",
             "nga_path": "./mon_202107/11/-pobugQ2o-2eeyKaT8S28-28.png",
             "path": "./icons/weapon/s/305118_01_50101.png"
+        },
+        "305118_01_59901": {
+            "id": "30540190",
+            "name": "\u771f\u7ea2\u4e4b\u707c\u70ed\u621f",
+            "nga_path": "./mon_202112/29/-pobugQ2p-3egsKbT8S28-28.png",
+            "path": "./icons/weapon/s/305118_01_59901.png"
         },
         "305119_01_50501": {
             "id": "30550504",
@@ -9900,6 +10308,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-92a8KcT8S28-28.png",
             "path": "./icons/weapon/s/305136_01_60201.png"
         },
+        "305136_01_69901": {
+            "id": "30550390",
+            "name": "\u5929\u6cbc\u77db",
+            "nga_path": "./mon_202112/29/-pobugQ2p-cb7aKbT8S28-28.png",
+            "path": "./icons/weapon/s/305136_01_69901.png"
+        },
         "305137_01_60301": {
             "id": "30560301",
             "name": "\u5148\u950b\u4e4b\u67aa",
@@ -9912,11 +10326,23 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-dd5iKbT8S28-28.png",
             "path": "./icons/weapon/s/305138_01_60401.png"
         },
+        "305138_01_69901": {
+            "id": "30550290",
+            "name": "\u963f\u83b1\u5fb7\u5df4\u5c14",
+            "nga_path": "./mon_202112/29/-pobugQ2p-kygoKbT8S28-28.png",
+            "path": "./icons/weapon/s/305138_01_69901.png"
+        },
         "305139_01_60501": {
             "id": "30560501",
             "name": "\u9752\u9f99\u5043\u6708\u5200",
             "nga_path": "./mon_202107/11/-pobugQ2o-64lgKbT8S28-28.png",
             "path": "./icons/weapon/s/305139_01_60501.png"
+        },
+        "305139_01_69901": {
+            "id": "30550190",
+            "name": "\u9752\u9f99\u5043\u6708\u5200",
+            "nga_path": "./mon_202112/29/-pobugQ2p-87m8KbT8S28-28.png",
+            "path": "./icons/weapon/s/305139_01_69901.png"
         },
         "305140_01_50101": {
             "id": "30550110",
@@ -9978,6 +10404,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-abcrKaT8S28-28.png",
             "path": "./icons/weapon/s/306001_01_19901.png"
         },
+        "306001_01_19902": {
+            "id": "30600190",
+            "name": "\u8001\u65e7\u7684\u5f13",
+            "nga_path": "./mon_202112/29/-pobugQ2p-hl4gKbT8S28-28.png",
+            "path": "./icons/weapon/s/306001_01_19902.png"
+        },
         "306003_01_30301": {
             "id": "30630302",
             "name": "\u72c2\u98ce\u8bd5\u70bc",
@@ -10026,6 +10458,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-9yn9KbT8S28-28.png",
             "path": "./icons/weapon/s/306012_01_39901.png"
         },
+        "306013_01_29901": {
+            "id": "30610190",
+            "name": "\u6267\u884c\u8005\u4e4b\u5f13",
+            "nga_path": "./mon_202112/29/-pobugQ2p-3s7rKcT8S28-28.png",
+            "path": "./icons/weapon/s/306013_01_29901.png"
+        },
         "306013_01_49901": {
             "id": "30649901",
             "name": "\u6267\u884c\u8005\u4e4b\u5f13",
@@ -10037,6 +10475,12 @@
             "name": "\u4ea1\u9ab8\u4e4b\u5f13",
             "nga_path": "./mon_202107/11/-pobugQ2o-dj0bKbT8S28-28.png",
             "path": "./icons/weapon/s/306014_01_50501.png"
+        },
+        "306015_01_39901": {
+            "id": "30620190",
+            "name": "\u7434\u5f13\u5c3c\u6258\u62c9\u91cc\u5361",
+            "nga_path": "./mon_202112/29/-pobugQ2p-c825KbT8S28-28.png",
+            "path": "./icons/weapon/s/306015_01_39901.png"
         },
         "306015_01_59901": {
             "id": "30659901",
@@ -10061,6 +10505,12 @@
             "name": "\u6c38\u6052\u4e4b\u82b1",
             "nga_path": "./mon_202107/11/-pobugQ2o-4xggKcT8S28-28.png",
             "path": "./icons/weapon/s/306021_01_59901.png"
+        },
+        "306022_01_59901": {
+            "id": "30659921",
+            "name": "\u731b\u79bd\u5599\u5f13",
+            "nga_path": "./mon_202112/29/-pobugQ2p-3rx7KbT8S28-28.png",
+            "path": "./icons/weapon/s/306022_01_59901.png"
         },
         "306026_01_39901": {
             "id": "30639901",
@@ -10200,6 +10650,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-dnmKaT8S28-28.png",
             "path": "./icons/weapon/s/306055_01_40501.png"
         },
+        "306061_01_49901": {
+            "id": "30630190",
+            "name": "\u7ea2\u83b2\u5f13\u00b7\u706b\u5c71\u4e4b\u6012",
+            "nga_path": "./mon_202112/29/-pobugQ2p-ckgkKaT8S28-28.png",
+            "path": "./icons/weapon/s/306061_01_49901.png"
+        },
         "306061_01_50101": {
             "id": "30650102",
             "name": "\u7ea2\u83b2\u5f13\u00b7\u706b\u5c71\u4e4b\u6012",
@@ -10284,6 +10740,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-gnbfKcT8S28-28.png",
             "path": "./icons/weapon/s/306086_01_50201.png"
         },
+        "306087_01_49901": {
+            "id": "30630290",
+            "name": "\u7834\u7a7a\u4e4b\u5f13",
+            "nga_path": "./mon_202112/29/-pobugQ2p-kuhgKbT8S28-28.png",
+            "path": "./icons/weapon/s/306087_01_49901.png"
+        },
         "306087_01_50301": {
             "id": "30650304",
             "name": "\u7834\u7a7a\u4e4b\u5f13",
@@ -10295,6 +10757,12 @@
             "name": "\u7eda\u70c2\u5f13\u9b3c\u767e\u5408",
             "nga_path": "./mon_202107/11/-pobugQ2o-l5s7KbT8S28-28.png",
             "path": "./icons/weapon/s/306094_01_50401.png"
+        },
+        "306095_01_49901": {
+            "id": "30630390",
+            "name": "\u5996\u534e\u5f13\u73ab\u7470\u5927\u4e3d\u82b1",
+            "nga_path": "./mon_202112/29/-pobugQ2p-86vqKcT8S28-28.png",
+            "path": "./icons/weapon/s/306095_01_49901.png"
         },
         "306095_01_50501": {
             "id": "30650502",
@@ -10350,17 +10818,35 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-hattKbT8S28-28.png",
             "path": "./icons/weapon/s/306109_01_50201.png"
         },
+        "306109_01_59901": {
+            "id": "30640190",
+            "name": "\u5546\u795e\u4e4b\u6ca7\u6d77",
+            "nga_path": "./mon_202112/29/-pobugQ2p-hbpzKbT8S28-28.png",
+            "path": "./icons/weapon/s/306109_01_59901.png"
+        },
         "306110_01_50401": {
             "id": "30650405",
             "name": "\u5929\u7a7a\u795e\u4e4b\u5723\u5929",
             "nga_path": "./mon_202107/11/-pobugQ2o-64tvKbT8S28-28.png",
             "path": "./icons/weapon/s/306110_01_50401.png"
         },
+        "306110_01_59901": {
+            "id": "30640390",
+            "name": "\u5929\u7a7a\u795e\u4e4b\u5723\u5929",
+            "nga_path": "./mon_202112/29/-pobugQ2p-3nr6KbT8S28-28.png",
+            "path": "./icons/weapon/s/306110_01_59901.png"
+        },
         "306111_01_50101": {
             "id": "30650104",
             "name": "\u5973\u6b66\u795e\u4e4b\u7ea2\u83b2",
             "nga_path": "./mon_202107/11/-pobugQ2o-jexuKaT8S28-28.png",
             "path": "./icons/weapon/s/306111_01_50101.png"
+        },
+        "306111_01_59901": {
+            "id": "30640290",
+            "name": "\u5973\u6b66\u795e\u4e4b\u7ea2\u83b2",
+            "nga_path": "./mon_202112/29/-pobugQ2p-cgclKcT8S28-28.png",
+            "path": "./icons/weapon/s/306111_01_59901.png"
         },
         "306112_01_50501": {
             "id": "30650503",
@@ -10440,17 +10926,35 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-9nzzKbT8S28-28.png",
             "path": "./icons/weapon/s/306127_01_60101.png"
         },
+        "306127_01_69901": {
+            "id": "30650190",
+            "name": "\u4f0a\u5947\u5df4\u5c14",
+            "nga_path": "./mon_202112/29/-pobugQ2p-ejuKcT8S28-28.png",
+            "path": "./icons/weapon/s/306127_01_69901.png"
+        },
         "306128_01_60201": {
             "id": "30660201",
             "name": "\u5929\u4e4b\u6ce2\u58eb\u5f13",
             "nga_path": "./mon_202107/11/-pobugQ2o-ks1qKbT8S28-28.png",
             "path": "./icons/weapon/s/306128_01_60201.png"
         },
+        "306128_01_69901": {
+            "id": "30650290",
+            "name": "\u5929\u4e4b\u6ce2\u58eb\u5f13",
+            "nga_path": "./mon_202112/29/-pobugQ2p-9f6vKbT8S28-28.png",
+            "path": "./icons/weapon/s/306128_01_69901.png"
+        },
         "306129_01_60301": {
             "id": "30660301",
             "name": "\u5fc5\u4e2d\u4e4b\u5f13",
             "nga_path": "./mon_202107/11/-pobugQ2o-dm8pKcT8S28-28.png",
             "path": "./icons/weapon/s/306129_01_60301.png"
+        },
+        "306129_01_69901": {
+            "id": "30650390",
+            "name": "\u5fc5\u4e2d\u4e4b\u5f13",
+            "nga_path": "./mon_202112/29/-pobugQ2p-i7wnKbT8S28-28.png",
+            "path": "./icons/weapon/s/306129_01_69901.png"
         },
         "306130_01_60401": {
             "id": "30660401",
@@ -10518,6 +11022,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-88e3KbT8S28-28.png",
             "path": "./icons/weapon/s/307001_01_19901.png"
         },
+        "307001_01_19902": {
+            "id": "30700190",
+            "name": "\u8001\u65e7\u7684\u9b54\u6756",
+            "nga_path": "./mon_202112/29/-pobugQ2p-4ds7KbT8S28-28.png",
+            "path": "./icons/weapon/s/307001_01_19902.png"
+        },
         "307003_01_39901": {
             "id": "30839902",
             "name": "\u957f\u751f\u7b26",
@@ -10560,6 +11070,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-hkbzKbT8S28-28.png",
             "path": "./icons/weapon/s/307011_01_40501.png"
         },
+        "307012_01_29901": {
+            "id": "30710190",
+            "name": "\u5319\u4e4b\u6756",
+            "nga_path": "./mon_202112/29/-pobugQ2p-byvoKcT8S28-28.png",
+            "path": "./icons/weapon/s/307012_01_29901.png"
+        },
         "307012_01_49901": {
             "id": "30749901",
             "name": "\u5319\u4e4b\u6756",
@@ -10596,11 +11112,23 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-ilsrKbT8S28-28.png",
             "path": "./icons/weapon/s/307018_01_40301.png"
         },
+        "307019_01_59901": {
+            "id": "30759921",
+            "name": "\u60ca\u609a\u8be1\u6756",
+            "nga_path": "./mon_202112/29/-pobugQ2p-jmhkKbT8S28-28.png",
+            "path": "./icons/weapon/s/307019_01_59901.png"
+        },
         "307021_01_30401": {
             "id": "30730401",
             "name": "\u96f7\u9706\u9b54\u6756",
             "nga_path": "./mon_202107/11/-pobugQ2o-b10dKbT8S28-28.png",
             "path": "./icons/weapon/s/307021_01_30401.png"
+        },
+        "307031_01_39901": {
+            "id": "30720190",
+            "name": "\u4e71\u6d41\u9b54\u6756",
+            "nga_path": "./mon_202112/29/-pobugQ2p-8948KcT8S28-28.png",
+            "path": "./icons/weapon/s/307031_01_39901.png"
         },
         "307031_01_59901": {
             "id": "30759901",
@@ -10746,6 +11274,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-3zpwKbT8S28-28.png",
             "path": "./icons/weapon/s/307064_01_40401.png"
         },
+        "307066_01_49901": {
+            "id": "30730190",
+            "name": "\u65e0\u5c3d\u7130\u5b9d\u7b0f",
+            "nga_path": "./mon_202112/29/-pobugQ2p-kajeKaT8S28-28.png",
+            "path": "./icons/weapon/s/307066_01_49901.png"
+        },
         "307066_01_50101": {
             "id": "30750102",
             "name": "\u65e0\u5c3d\u7130\u5b9d\u7b0f",
@@ -10781,6 +11315,12 @@
             "name": "\u7480\u74a8\u5149\u660e\u9b54\u6756",
             "nga_path": "./mon_202107/11/-pobugQ2o-hyn6KbT8S28-28.png",
             "path": "./icons/weapon/s/307075_01_40401.png"
+        },
+        "307077_01_49901": {
+            "id": "30730390",
+            "name": "\u9a6d\u9b42\u9b54\u6756",
+            "nga_path": "./mon_202112/29/-pobugQ2p-7vwyKbT8S28-28.png",
+            "path": "./icons/weapon/s/307077_01_49901.png"
         },
         "307077_01_50201": {
             "id": "30750204",
@@ -10872,6 +11412,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-jyhsKbT8S28-28.png",
             "path": "./icons/weapon/s/307108_01_50401.png"
         },
+        "307114_01_49901": {
+            "id": "30730290",
+            "name": "\u64bc\u4e16\u4e4b\u6756",
+            "nga_path": "./mon_202112/29/-pobugQ2p-g5lgKcT8S28-28.png",
+            "path": "./icons/weapon/s/307114_01_49901.png"
+        },
         "307114_01_50401": {
             "id": "30750406",
             "name": "\u64bc\u4e16\u4e4b\u6756",
@@ -10890,11 +11436,23 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-is07KbT8S28-28.png",
             "path": "./icons/weapon/s/307116_01_50301.png"
         },
+        "307116_01_59901": {
+            "id": "30740390",
+            "name": "\u9f99\u7b0f\u98ce\u66b4",
+            "nga_path": "./mon_202112/29/-pobugQ2p-3cfeKbT8S28-28.png",
+            "path": "./icons/weapon/s/307116_01_59901.png"
+        },
         "307117_01_50201": {
             "id": "30750206",
             "name": "\u9f99\u7b0f\u6d77\u6da1",
             "nga_path": "./mon_202107/11/-pobugQ2o-apnwKbT8S28-28.png",
             "path": "./icons/weapon/s/307117_01_50201.png"
+        },
+        "307117_01_59901": {
+            "id": "30740190",
+            "name": "\u9f99\u7b0f\u6d77\u6da1",
+            "nga_path": "./mon_202112/29/-pobugQ2p-cuzeKbT8S28-28.png",
+            "path": "./icons/weapon/s/307117_01_59901.png"
         },
         "307118_01_50401": {
             "id": "30750404",
@@ -10913,6 +11471,12 @@
             "name": "\u9f99\u7b0f\u6697\u7f1a",
             "nga_path": "./mon_202107/11/-pobugQ2o-9i3jKbT8S28-28.png",
             "path": "./icons/weapon/s/307120_01_50501.png"
+        },
+        "307120_01_59901": {
+            "id": "30740290",
+            "name": "\u9f99\u7b0f\u6697\u7f1a",
+            "nga_path": "./mon_202112/29/-pobugQ2p-1ceiKbT8S28-28.png",
+            "path": "./icons/weapon/s/307120_01_59901.png"
         },
         "307122_01_50101": {
             "id": "30750110",
@@ -10998,17 +11562,35 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-hemkKbT8S28-28.png",
             "path": "./icons/weapon/s/307137_01_60301.png"
         },
+        "307137_01_69901": {
+            "id": "30750290",
+            "name": "\u5361\u6885\u6d1b\u7279",
+            "nga_path": "./mon_202112/29/-pobugQ2p-9nnfKbT8S28-28.png",
+            "path": "./icons/weapon/s/307137_01_69901.png"
+        },
         "307138_01_60401": {
             "id": "30760401",
             "name": "\u5e03\u91cc\u6b27\u7eb3\u514b",
             "nga_path": "./mon_202107/11/-pobugQ2o-9midKbT8S28-28.png",
             "path": "./icons/weapon/s/307138_01_60401.png"
         },
+        "307138_01_69901": {
+            "id": "30750190",
+            "name": "\u5e03\u91cc\u6b27\u7eb3\u514b",
+            "nga_path": "./mon_202112/29/-pobugQ2p-indnKbT8S28-28.png",
+            "path": "./icons/weapon/s/307138_01_69901.png"
+        },
         "307139_01_60501": {
             "id": "30760501",
             "name": "\u4e5d\u547d\u4e4b\u9521",
             "nga_path": "./mon_202107/11/-pobugQ2o-12tvKbT8S28-28.png",
             "path": "./icons/weapon/s/307139_01_60501.png"
+        },
+        "307139_01_69901": {
+            "id": "30750390",
+            "name": "\u4e5d\u547d\u4e4b\u9521",
+            "nga_path": "./mon_202112/29/-pobugQ2p-5vmyKbT8S28-28.png",
+            "path": "./icons/weapon/s/307139_01_69901.png"
         },
         "307140_01_50101": {
             "id": "30750109",
@@ -11070,11 +11652,23 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-i4fgKbT8S28-28.png",
             "path": "./icons/weapon/s/308001_01_19901.png"
         },
+        "308001_01_19902": {
+            "id": "30800190",
+            "name": "\u8001\u65e7\u7684\u6cd5\u6756",
+            "nga_path": "./mon_202112/29/-pobugQ2p-ebyjKbT8S28-28.png",
+            "path": "./icons/weapon/s/308001_01_19902.png"
+        },
         "308002_01_39901": {
             "id": "30839901",
             "name": "\u6069\u60e0\u4e4b\u6756",
             "nga_path": "./mon_202107/11/-pobugQ2o-9sb1KbT8S28-28.png",
             "path": "./icons/weapon/s/308002_01_39901.png"
+        },
+        "308005_01_29901": {
+            "id": "30810190",
+            "name": "\u517b\u751f\u6756",
+            "nga_path": "./mon_202112/29/-pobugQ2p-23n6KcT8S28-28.png",
+            "path": "./icons/weapon/s/308005_01_29901.png"
         },
         "308005_01_49901": {
             "id": "30849901",
@@ -11136,6 +11730,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-7h3dKbT8S28-28.png",
             "path": "./icons/weapon/s/308015_01_50501.png"
         },
+        "308017_01_59901": {
+            "id": "30859921",
+            "name": "\u547d\u8fd0\u5e73\u884c",
+            "nga_path": "./mon_202112/29/-pobugQ2p-9rucKbT8S28-28.png",
+            "path": "./icons/weapon/s/308017_01_59901.png"
+        },
         "308018_01_40401": {
             "id": "30840401",
             "name": "\u96f7\u7535\u6756\u6258\u5c3c\u6258\u9c81\u65af",
@@ -11171,6 +11771,12 @@
             "name": "\u5438\u8840\u9b3c\u706f\u7b3c",
             "nga_path": "./mon_202107/11/-pobugQ2o-1i3KbT8S28-28.png",
             "path": "./icons/weapon/s/308026_01_30401.png"
+        },
+        "308030_01_39901": {
+            "id": "30820190",
+            "name": "\u9547\u9b42\u4e4b\u6756",
+            "nga_path": "./mon_202112/29/-pobugQ2p-iis3KbT8S28-28.png",
+            "path": "./icons/weapon/s/308030_01_39901.png"
         },
         "308030_01_59901": {
             "id": "30859901",
@@ -11220,6 +11826,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-eczyKbT8S28-28.png",
             "path": "./icons/weapon/s/308041_01_40101.png"
         },
+        "308044_01_49901": {
+            "id": "30830190",
+            "name": "\u672b\u65e5\u7ec8\u7109",
+            "nga_path": "./mon_202112/29/-pobugQ2p-au2fKaT8S28-28.png",
+            "path": "./icons/weapon/s/308044_01_49901.png"
+        },
         "308044_01_50101": {
             "id": "30850102",
             "name": "\u672b\u65e5\u7ec8\u7109",
@@ -11267,6 +11879,12 @@
             "name": "\u70c8\u7130\u4e4b\u6838",
             "nga_path": "./mon_202107/11/-pobugQ2o-tjuKbT8S28-28.png",
             "path": "./icons/weapon/s/308054_01_50101.png"
+        },
+        "308055_01_49901": {
+            "id": "30830390",
+            "name": "\u84dd\u6e0a\u4e4b\u6838",
+            "nga_path": "./mon_202112/29/-pobugQ2p-jjl0KbT8S28-28.png",
+            "path": "./icons/weapon/s/308055_01_49901.png"
         },
         "308055_01_50201": {
             "id": "30850202",
@@ -11352,6 +11970,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-bvupKbT8S28-28.png",
             "path": "./icons/weapon/s/308101_01_50401.png"
         },
+        "308107_01_49901": {
+            "id": "30830290",
+            "name": "\u65e0\u7a77\u652f\u914d\u8005",
+            "nga_path": "./mon_202112/29/-pobugQ2p-6rkwKbT8S28-28.png",
+            "path": "./icons/weapon/s/308107_01_49901.png"
+        },
         "308107_01_50401": {
             "id": "30850406",
             "name": "\u65e0\u7a77\u652f\u914d\u8005",
@@ -11376,6 +12000,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-h2a7KbT8S28-28.png",
             "path": "./icons/weapon/s/308110_01_50201.png"
         },
+        "308110_01_59901": {
+            "id": "30840190",
+            "name": "\u6ca7\u6d77\u73af\u62e5",
+            "nga_path": "./mon_202112/29/-pobugQ2p-fsp7KbT8S28-28.png",
+            "path": "./icons/weapon/s/308110_01_59901.png"
+        },
         "308111_01_50401": {
             "id": "30850404",
             "name": "\u8511\u7b11\u6674\u7a7a",
@@ -11388,11 +12018,23 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-jq94KbT8S28-28.png",
             "path": "./icons/weapon/s/308112_01_50101.png"
         },
+        "308112_01_59901": {
+            "id": "30840290",
+            "name": "\u7ea2\u83b2\u5171\u821e",
+            "nga_path": "./mon_202112/29/-pobugQ2p-3m32KbT8S28-28.png",
+            "path": "./icons/weapon/s/308112_01_59901.png"
+        },
         "308113_01_50501": {
             "id": "30850503",
             "name": "\u6f06\u9ed1\u4e3a\u566c",
             "nga_path": "./mon_202107/11/-pobugQ2o-7j0yKbT8S28-28.png",
             "path": "./icons/weapon/s/308113_01_50501.png"
+        },
+        "308113_01_59901": {
+            "id": "30840390",
+            "name": "\u6f06\u9ed1\u4e3a\u566c",
+            "nga_path": "./mon_202112/29/-pobugQ2p-brd9KbT8S28-28.png",
+            "path": "./icons/weapon/s/308113_01_59901.png"
         },
         "308115_01_50101": {
             "id": "30850110",
@@ -11472,17 +12114,35 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-xikKcT8S28-28.png",
             "path": "./icons/weapon/s/308129_01_60201.png"
         },
+        "308129_01_69901": {
+            "id": "30850390",
+            "name": "\u4e45\u90a3\u6597\u6cd5\u6756",
+            "nga_path": "./mon_202112/29/-pobugQ2p-ke7jKcT8S28-28.png",
+            "path": "./icons/weapon/s/308129_01_69901.png"
+        },
         "308130_01_60301": {
             "id": "30860301",
             "name": "\u963f\u74e6\u9686",
             "nga_path": "./mon_202107/11/-pobugQ2o-emegKbT8S28-28.png",
             "path": "./icons/weapon/s/308130_01_60301.png"
         },
+        "308130_01_69901": {
+            "id": "30850190",
+            "name": "\u963f\u74e6\u9686",
+            "nga_path": "./mon_202112/29/-pobugQ2p-6upjKbT8S28-28.png",
+            "path": "./icons/weapon/s/308130_01_69901.png"
+        },
         "308131_01_60401": {
             "id": "30860401",
             "name": "\u6234\u5c14\u798f\u91cc\u65af",
             "nga_path": "./mon_202107/11/-pobugQ2o-64svKcT8S28-28.png",
             "path": "./icons/weapon/s/308131_01_60401.png"
+        },
+        "308131_01_69901": {
+            "id": "30850290",
+            "name": "\u6234\u5c14\u798f\u91cc\u65af",
+            "nga_path": "./mon_202112/29/-pobugQ2p-g3veKbT8S28-28.png",
+            "path": "./icons/weapon/s/308131_01_69901.png"
         },
         "308132_01_60501": {
             "id": "30860501",
@@ -11544,6 +12204,18 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-408dKbT8S28-28.png",
             "path": "./icons/weapon/s/309001_01_19901.png"
         },
+        "309001_01_19902": {
+            "id": "30900190",
+            "name": "\u8001\u65e7\u7684\u94f3",
+            "nga_path": "./mon_202112/29/-pobugQ2p-48sfKbT8S28-28.png",
+            "path": "./icons/weapon/s/309001_01_19902.png"
+        },
+        "309002_01_29901": {
+            "id": "30910190",
+            "name": "\u9057\u8ff9\u4e4b\u94f3",
+            "nga_path": "./mon_202112/29/-pobugQ2p-d99dKcT8S28-28.png",
+            "path": "./icons/weapon/s/309002_01_29901.png"
+        },
         "309002_01_49901": {
             "id": "30949901",
             "name": "\u9057\u8ff9\u4e4b\u94f3",
@@ -11586,6 +12258,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-e1hjKbT8S28-28.png",
             "path": "./icons/weapon/s/309008_01_40501.png"
         },
+        "309009_01_39901": {
+            "id": "30920190",
+            "name": "\u7eda\u70c2\u5f0f\u9b54\u52a8\u94f3",
+            "nga_path": "./mon_202112/29/-pobugQ2p-lf1oKbT8S28-28.png",
+            "path": "./icons/weapon/s/309009_01_39901.png"
+        },
         "309009_01_59901": {
             "id": "30959901",
             "name": "\u7eda\u70c2\u5f0f\u9b54\u52a8\u94f3",
@@ -11610,17 +12288,35 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-xwjKbT8S28-28.png",
             "path": "./icons/weapon/s/309012_01_50201.png"
         },
+        "309013_01_49901": {
+            "id": "30930390",
+            "name": "\u7eda\u70c2\u5f0f\u9b54\u52a8\u94f321\u578b",
+            "nga_path": "./mon_202112/29/-pobugQ2p-8lzvKcT8S28-28.png",
+            "path": "./icons/weapon/s/309013_01_49901.png"
+        },
         "309013_01_50301": {
             "id": "30950302",
             "name": "\u7eda\u70c2\u5f0f\u9b54\u52a8\u94f321\u578b",
             "nga_path": "./mon_202107/11/-pobugQ2o-dvp9KbT8S28-28.png",
             "path": "./icons/weapon/s/309013_01_50301.png"
         },
+        "309014_01_49901": {
+            "id": "30930290",
+            "name": "\u7eda\u70c2\u5f0f\u9b54\u52a8\u94f362\u578b",
+            "nga_path": "./mon_202112/29/-pobugQ2p-s4jKbT8S28-28.png",
+            "path": "./icons/weapon/s/309014_01_49901.png"
+        },
         "309014_01_50401": {
             "id": "30950402",
             "name": "\u7eda\u70c2\u5f0f\u9b54\u52a8\u94f362\u578b",
             "nga_path": "./mon_202107/11/-pobugQ2o-5xikKbT8S28-28.png",
             "path": "./icons/weapon/s/309014_01_50401.png"
+        },
+        "309015_01_49901": {
+            "id": "30930190",
+            "name": "\u7eda\u70c2\u5f0f\u9b54\u52a8\u94f381\u578b",
+            "nga_path": "./mon_202112/29/-pobugQ2p-8e4uKbT8S28-28.png",
+            "path": "./icons/weapon/s/309015_01_49901.png"
         },
         "309015_01_50501": {
             "id": "30950502",
@@ -11670,11 +12366,23 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-12m3KbT8S28-28.png",
             "path": "./icons/weapon/s/309022_01_50201.png"
         },
+        "309022_01_59901": {
+            "id": "30940290",
+            "name": "\u5927\u6d0b\u89e6\u53d1\u94f3",
+            "nga_path": "./mon_202112/29/-pobugQ2p-j2kfKbT8S28-28.png",
+            "path": "./icons/weapon/s/309022_01_59901.png"
+        },
         "309023_01_50301": {
             "id": "30950303",
             "name": "\u98ce\u66b4\u89e6\u53d1\u94f3",
             "nga_path": "./mon_202107/11/-pobugQ2o-e6nkKcT8S28-28.png",
             "path": "./icons/weapon/s/309023_01_50301.png"
+        },
+        "309023_01_59901": {
+            "id": "30940390",
+            "name": "\u98ce\u66b4\u89e6\u53d1\u94f3",
+            "nga_path": "./mon_202112/29/-pobugQ2p-7ot0KbT8S28-28.png",
+            "path": "./icons/weapon/s/309023_01_59901.png"
         },
         "309024_01_50401": {
             "id": "30950403",
@@ -11688,11 +12396,23 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-kfz0KcT8S28-28.png",
             "path": "./icons/weapon/s/309025_01_50501.png"
         },
+        "309025_01_59901": {
+            "id": "30940190",
+            "name": "\u8bc5\u5492\u89e6\u53d1\u94f3",
+            "nga_path": "./mon_202112/29/-pobugQ2p-gmawKbT8S28-28.png",
+            "path": "./icons/weapon/s/309025_01_59901.png"
+        },
         "309026_01_60101": {
             "id": "30960101",
             "name": "\u5fb7\u7f57\u666e\u5c3c\u5c14",
             "nga_path": "./mon_202107/11/-pobugQ2o-cxcgKbT8S28-28.png",
             "path": "./icons/weapon/s/309026_01_60101.png"
+        },
+        "309026_01_69901": {
+            "id": "30950390",
+            "name": "\u5fb7\u7f57\u666e\u5c3c\u5c14",
+            "nga_path": "./mon_202112/29/-pobugQ2p-3z98KbT8S28-28.png",
+            "path": "./icons/weapon/s/309026_01_69901.png"
         },
         "309027_01_60201": {
             "id": "30960201",
@@ -11700,11 +12420,23 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-40tqKcT8S28-28.png",
             "path": "./icons/weapon/s/309027_01_60201.png"
         },
+        "309027_01_69901": {
+            "id": "30950190",
+            "name": "\u5929\u9e1f\u8239",
+            "nga_path": "./mon_202112/29/-pobugQ2p-d2oaKcT8S28-28.png",
+            "path": "./icons/weapon/s/309027_01_69901.png"
+        },
         "309028_01_60301": {
             "id": "30960301",
             "name": "\u5361\u6587\u6c40",
             "nga_path": "./mon_202107/11/-pobugQ2o-hjfuKcT8S28-28.png",
             "path": "./icons/weapon/s/309028_01_60301.png"
+        },
+        "309028_01_69901": {
+            "id": "30950290",
+            "name": "\u5361\u6587\u6c40",
+            "nga_path": "./mon_202112/29/-pobugQ2p-kwspKcT8S28-28.png",
+            "path": "./icons/weapon/s/309028_01_69901.png"
         },
         "309029_01_60401": {
             "id": "30960401",
@@ -11753,6 +12485,12 @@
             "name": "\u5929\u653b\u89e6\u53d1\u94f3",
             "nga_path": "./mon_202112/24/-pobugQ2p-b69uKcT8S28-28.png",
             "path": "./icons/weapon/s/309043_01_60301.png"
+        },
+        "395001_01_59901": {
+            "id": "30959921",
+            "name": "\u70bc\u91d1\u4f1f\u4e1a",
+            "nga_path": "./mon_202112/29/-pobugQ2p-7dxbKcT8S28-28.png",
+            "path": "./icons/weapon/s/395001_01_59901.png"
         },
         "396001_01_59901": {
             "id": "30950119",
