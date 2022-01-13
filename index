@@ -3776,6 +3776,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-8htmKdT8S28-28.png",
             "path": "./icons/chara/s/100007_07_r05.png"
         },
+        "100007_10_r05": {
+            "id": "10850403",
+            "name": "\u7eb3\u59c6\uff08\u548c\u670dVer.\uff09",
+            "nga_path": "./mon_202201/13/-pobugQ2p-fikeKdT8S28-28.png",
+            "path": "./icons/chara/s/100007_10_r05.png"
+        },
         "100009_01_r05": {
             "id": "19900001",
             "name": "\u585e\u897f\u5a05",
