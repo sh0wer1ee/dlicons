@@ -4100,6 +4100,12 @@
             "nga_path": "./mon_202111/29/-pobugQ2p-ai37KbT8S28-28.png",
             "path": "./icons/chara/s/100048_01_r05.png"
         },
+        "100053_01_r05": {
+            "id": "19100067",
+            "name": "\u6cfd\u8bfa\u65af",
+            "nga_path": "./mon_202201/22/-pobugQ2p-3hocKbT8S28-28.png",
+            "path": "./icons/chara/s/100053_01_r05.png"
+        },
         "100054_01_r05": {
             "id": "10250504",
             "name": "\u585e\u897f\u5a05\uff08Fes\u9650\u5b9aVer.\uff09",
