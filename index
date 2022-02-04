@@ -3908,6 +3908,12 @@
             "nga_path": "./mon_202111/29/-pobugQ2p-dgvkKbT8S28-28.png",
             "path": "./icons/chara/s/100014_01_r05.png"
         },
+        "100014_03_r05": {
+            "id": "10550306",
+            "name": "\u6cd5\u5c14\u827e\u65af",
+            "nga_path": "./mon_202202/04/-pobugQ2p-5kavKdT8S28-28.png",
+            "path": "./icons/chara/s/100014_03_r05.png"
+        },
         "100015_03_r05": {
             "id": "19100008",
             "name": "\u8c22\u65af",
@@ -3937,6 +3943,12 @@
             "name": "\u5df4\u5c14\u5e93\u65af",
             "nga_path": "./mon_202111/29/-pobugQ2p-hty9KbT8S28-28.png",
             "path": "./icons/chara/s/100016_01_r05.png"
+        },
+        "100016_03_r05": {
+            "id": "10450406",
+            "name": "\u5df4\u5c14\u5e93\u65af",
+            "nga_path": "./mon_202202/04/-pobugQ2p-j7fhKdT8S28-28.png",
+            "path": "./icons/chara/s/100016_03_r05.png"
         },
         "100017_01_r05": {
             "id": "19100010",
@@ -4041,8 +4053,8 @@
             "path": "./icons/chara/s/100031_03_r05.png"
         },
         "100031_04_r05": {
-            "id": "",
-            "name": "",
+            "id": "19100066",
+            "name": "\u963f\u5c14\u8d1d\u7409\u65af\u590d\u5236\u4f53",
             "nga_path": "./mon_202201/31/-pobugQ2p-3zd4KbT8S28-28.png",
             "path": "./icons/chara/s/100031_04_r05.png"
         },
@@ -7455,6 +7467,12 @@
             "name": "\u517d\u5316\u8c22\u5e0c\u8036\u5c14\uff08Fes\u9650\u5b9aVer.\uff09",
             "nga_path": "./mon_202112/31/-pobugQ2p-k2mvKbT8S28-28.png",
             "path": "./icons/dragon/s/210167_01.png"
+        },
+        "210168_01": {
+            "id": "20050321",
+            "name": "\u7c73\u8fe6\u52d2",
+            "nga_path": "./mon_202202/04/-pobugQ2p-bgofKdT8S28-28.png",
+            "path": "./icons/dragon/s/210168_01.png"
         },
         "210169_01": {
             "id": "20050320",
