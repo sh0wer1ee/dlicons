@@ -3830,6 +3830,12 @@
             "nga_path": "./mon_202201/13/-pobugQ2p-fikeKdT8S28-28.png",
             "path": "./icons/chara/s/100007_10_r05.png"
         },
+        "100008_04_r05": {
+            "id": "10850303",
+            "name": "\u59ae\u5a1c",
+            "nga_path": "./mon_202202/14/-pobugQjd5-2ev0KdT8S28-28.png",
+            "path": "./icons/chara/s/100008_04_r05.png"
+        },
         "100009_01_r05": {
             "id": "19900001",
             "name": "\u585e\u897f\u5a05",
