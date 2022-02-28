@@ -3570,6 +3570,54 @@
             "nga_path": "./mon_202201/31/-pobugQ2p-ea5KdT8S28-28.png",
             "path": "./icons/amulet/s/400496_02.png"
         },
+        "400497_01": {
+            "id": "40050151",
+            "name": "\u6b3e\u5f85\u534f\u594f\u66f2",
+            "nga_path": "./mon_202202/28/-pobugQ17l-18j9KdT8S28-28.png",
+            "path": "./icons/amulet/s/400497_01.png"
+        },
+        "400497_02": {
+            "id": "40050151",
+            "name": "\u6b3e\u5f85\u534f\u594f\u66f2",
+            "nga_path": "./mon_202202/28/-pobugQ17l-e2suKcT8S28-28.png",
+            "path": "./icons/amulet/s/400497_02.png"
+        },
+        "400498_01": {
+            "id": "40040105",
+            "name": "\u7ba1\u5bb6\u7684\u7b11\u5bb9\u2606",
+            "nga_path": "./mon_202202/28/-pobugQ17l-5dz1KeT8S28-28.png",
+            "path": "./icons/amulet/s/400498_01.png"
+        },
+        "400498_02": {
+            "id": "40040105",
+            "name": "\u7ba1\u5bb6\u7684\u7b11\u5bb9\u2606",
+            "nga_path": "./mon_202202/28/-pobugQ17l-ixltKeT8S28-28.png",
+            "path": "./icons/amulet/s/400498_02.png"
+        },
+        "400499_01": {
+            "id": "40040106",
+            "name": "\u8a00\u4f20\u8eab\u6559",
+            "nga_path": "./mon_202202/28/-pobugQ17l-aistKcT8S28-28.png",
+            "path": "./icons/amulet/s/400499_01.png"
+        },
+        "400499_02": {
+            "id": "40040106",
+            "name": "\u8a00\u4f20\u8eab\u6559",
+            "nga_path": "./mon_202202/28/-pobugQ17l-2zgsKcT8S28-28.png",
+            "path": "./icons/amulet/s/400499_02.png"
+        },
+        "400500_01": {
+            "id": "40050152",
+            "name": "\u613f\u90a3\u68a6\u60f3\u6210\u771f",
+            "nga_path": "./mon_202202/28/-pobugQ17l-gnv6KdT8S28-28.png",
+            "path": "./icons/amulet/s/400500_01.png"
+        },
+        "400500_02": {
+            "id": "40050152",
+            "name": "\u613f\u90a3\u68a6\u60f3\u6210\u771f",
+            "nga_path": "./mon_202202/28/-pobugQ17l-83c5KcT8S28-28.png",
+            "path": "./icons/amulet/s/400500_02.png"
+        },
         "400503_01": {
             "id": "40000001",
             "name": "\u52c7\u6562\u4e4b\u51a0",
@@ -6470,6 +6518,12 @@
             "nga_path": "./mon_202112/31/-pobugQ2p-i1zcKdT8S28-28.png",
             "path": "./icons/chara/s/110403_01_r05.png"
         },
+        "110404_01_r05": {
+            "id": "10950503",
+            "name": "\u5e7b\u8eab\u4f50\u8fea\u4e9a\u514b",
+            "nga_path": "./mon_202202/28/-pobugQ17l-2q3jKdT8S28-28.png",
+            "path": "./icons/chara/s/110404_01_r05.png"
+        },
         "120053_01_r05": {
             "id": "19100031",
             "name": "\u5854\u7eb3\u6258\u65af",
@@ -7485,6 +7539,12 @@
             "name": "\u4e0d\u52a8\u660e\u738b",
             "nga_path": "./mon_202112/31/-pobugQ2p-bargKdT8S28-28.png",
             "path": "./icons/dragon/s/210169_01.png"
+        },
+        "210173_01": {
+            "id": "20050419",
+            "name": "\u5723\u57df\u9f99\uff08Fes\u9650\u5b9aVer.\uff09",
+            "nga_path": "./mon_202202/28/-pobugQ17l-6lwuKdT8S28-28.png",
+            "path": "./icons/dragon/s/210173_01.png"
         }
     },
     "weapon": {
@@ -11922,6 +11982,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-at9hKbT8S28-28.png",
             "path": "./icons/weapon/s/308022_01_40201.png"
         },
+        "308024_01_59901": {
+            "id": "30850116",
+            "name": "\u6c38\u6052\u4e4b\u98ce",
+            "nga_path": "./mon_202202/28/-pobugQ17l-7zf6KbT8S28-28.png",
+            "path": "./icons/weapon/s/308024_01_59901.png"
+        },
         "308026_01_30401": {
             "id": "30830402",
             "name": "\u5438\u8840\u9b3c\u706f\u7b3c",
@@ -12665,6 +12731,12 @@
             "name": "\u5931\u610f\u4e4b\u94f3",
             "nga_path": "./mon_202108/27/-pobugQj6w-fn3oKbT8S28-28.png",
             "path": "./icons/weapon/s/396002_01_59901.png"
+        },
+        "396003_01_59901": {
+            "id": "30650119",
+            "name": "\u5c0f\u5c0f\u7231\u5fc3\u4e4b\u5f13",
+            "nga_path": "./mon_202202/28/-pobugQ17l-9jpcKbT8S28-28.png",
+            "path": "./icons/weapon/s/396003_01_59901.png"
         },
         "397001_01_59901": {
             "id": "30150116",
