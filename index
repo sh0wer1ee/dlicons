@@ -5780,6 +5780,12 @@
             "nga_path": "./mon_202107/11/-pobugQ2o-cxcaKdT8S28-28.png",
             "path": "./icons/chara/s/110302_01_r05.png"
         },
+        "110302_04_r05": {
+            "id": "10650204",
+            "name": "\u76ae\u96c5\u831c\uff08\u5973\u4ec6Ver.\uff09",
+            "nga_path": "./mon_202203/04/-pobugQjdt-fa1aKdT8S28-28.png",
+            "path": "./icons/chara/s/110302_04_r05.png"
+        },
         "110303_01_r04": {
             "id": "10640403",
             "name": "\u57c3\u5229\u4e9a\u65af",
