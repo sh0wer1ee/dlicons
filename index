@@ -3758,6 +3758,12 @@
             "nga_path": "./mon_202107/29/-pobugQ7edy-ccm2KdT8S28-28.png",
             "path": "./icons/chara/s/100001_12_r05.png"
         },
+        "100001_14_r05": {
+            "id": "10150306",
+            "name": "\u4e3b\u4eba\u516c\uff08\u4fe1\u8d56\u4e4b\u529bVer.\uff09",
+            "nga_path": "./mon_202203/31/-pobugQ372q-28lmKdT8S28-28.png",
+            "path": "./icons/chara/s/100001_14_r05.png"
+        },
         "100002_01_r04": {
             "id": "10540201",
             "name": "\u57c3\u5c14\u83f2\u8389\u4e1d",
@@ -4327,6 +4333,12 @@
             "name": "\u585e\u897f\u5a05\uff08Fes\u9650\u5b9aVer.\uff09",
             "nga_path": "./mon_202109/30/-pobugQn4a0-drx3KdT8S28-28.png",
             "path": "./icons/chara/s/100054_01_r05.png"
+        },
+        "100054_02_r05": {
+            "id": "10750405",
+            "name": "\u585e\u897f\u5a05\uff08\u4fe1\u8d56\u4e4b\u529bVer.\uff09",
+            "nga_path": "./mon_202203/31/-pobugQ372q-fmnmKdT8S28-28.png",
+            "path": "./icons/chara/s/100054_02_r05.png"
         },
         "110001_01_r03": {
             "id": "10530101",
@@ -13007,6 +13019,12 @@
             "name": "\u575a\u6bc5\u7834\u574f\u65a7",
             "nga_path": "./mon_202201/31/-pobugQ2p-bcn8KcT8S28-28.png",
             "path": "./icons/weapon/s/399067_01_59901.png"
+        },
+        "399070_01_59901": {
+            "id": "30750316",
+            "name": "\u7ea6\u5b9a\u4e4b\u8bc1",
+            "nga_path": "./mon_202203/31/-pobugQ372q-7mr8KbT8S28-28.png",
+            "path": "./icons/weapon/s/399070_01_59901.png"
         }
     }
 }
